@@ -1,0 +1,1282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Musil-Nachlass: Mappe Druckfahnen</title>
+            <author>Robert Musil</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>musilonline</p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>ÖNB</institution>
+                  <idno type="sn">15124</idno>
+                  <msName>Fahnen</msName>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <bibl><author>Robert Musil</author>
+                        <edition>Gesamtausgabe Band 4</edition>
+                        <title>Der Mann ohne Eigenschaften. Zweites Buch. Fortsetzung aus dem
+                           Nachlass 1937-1942</title>
+                        <seg>Druckfahnenkapitel</seg></bibl>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <handNote scribe="RMusil" medium="pencil" rendition="korrigierte_Druckfahnen">
+                        <p>An dem Text der Fahnen sind vier handschriftliche Bearbeitungsschichten
+                           festzustellen: a) Musil beginnt Anfang 1938 die Fahnen zu korrigieren,
+                           zunächst so, wie er Fahnenkorrekturen üblicherweise auszuführen pflegt,
+                           nämlich mit nur wenigen Eingriffen, die er vorwiegend am rechten Rand mit
+                           Bleistift und unter Verwendung von Setzerzeichen und lateinischen
+                           Buchstaben anbringt. (b) In der zweiten Phase von März bis Juli 1938
+                           greift Musil stärker in den Text ein, er führt an sechs der zwanzig
+                           Kapitel eine umfangreiche Umarbeitung durch. Musil nimmt die Korrekturen
+                           weiterhin mit Bleistift in gut lesbarer lateinischer Schrift am Rand des
+                           gesetzten Texts der Druckfahnen vor; zusätzlich fügte er an zwei Stellen
+                           insgesamt 9 Seiten Typoskript und an einer Stelle 3 Seiten in Handschrift
+                           ein, welche Reinschriften der an diesen Stellen sehr komplexen
+                           Korrekturen bieten. (c) In die Züricher Zeit ab August 1938 fällt die
+                           dritte Bearbeitungsphase der Druckfahnenkapitel, die als Beginn der
+                           Preisgabe der bisherigen Anordnung zu bezeichnen ist. Klar unterscheidbar
+                           von der älteren Bearbeitung erfolgen die Glossierungen am Rand der
+                           Fahnenblätter mit einem anderen Schreibmaterial und in Kurrentbuchstaben,
+                           nicht mehr in lateinischer Schrift. Es handelt sich nicht länger um exakt
+                           ausgeführte Korrekturen, sondern um Variantenvorschläge und um Kommentare
+                           zum Text, die auf eine völlige Neugestaltung weisen. (d) Die
+                           nachträgliche Kapitelnummerierung Martha Musils für ihre Lausanner
+                           Ausgabe eines Dritten Bandes des Mann ohne Eigenschaften.</p></handNote>
+                  </handDesc>
+               </physDesc>
+               <history>
+                  <p>Die Überlieferungsgeschichte der für die Rekonstruktion der Fortsetzung des
+                     »Mann ohne Eigenschaften« aus dem Nachlass enorm wichtigen Mappe mit den
+                     Druckfahnen zu »Band II, Teil 2« des Romans ist nicht ganz klar. Robert Musil
+                     verzeichnet in seinem Übersiedlungsregister von April 1941 ein Kuvert mit
+                     »besseren Fahnen« und eine weitere »Mappe mit benutzten Fahnen«. Marta Musils
+                     Inventarisierung verzeichnet auch noch zwei Mappen mit Druckfahnen. Erhalten
+                     geblieben ist jedoch nur das eine, von Musil handschriftlich und mit
+                     Typoskript-Zusätzen bearbeitete, mit Bleistift von 1 bis 133 durchpaginierte
+                     Konvolut. Am Ende befinden sich drei Blätter mit korrigierten Druckfahnen zu
+                     den Schlußkapiteln des ersten Bands des »Mann ohne Eigenschaften« von Oktober
+                     1930, die nachträglich dort hingelegt worden sein müssen. Die Fahnen 1-130 mit
+                     ihren Zusätzen repräsentieren die zwanzig Kapitel der »Zwischenfortsetzung des
+                     Mann ohne Eigenschaften«, die Musil im November 1937 dem Bermann-Fischer-Verlag
+                     zur Veröffentlichung übergab (das Druckmanuskript Musils ist nicht erhalten).
+                     Das Erscheinen des Buchs wurde durch den Anschluss Österreichs ans Dritte Reich
+                     im März 1938 verhindert. Inzwischen hatte Musil die Fahnen korrigiert, er
+                     vertiefte diese Korrekturen in der Phase der Ungewissheit, was nun mit dem
+                     Fortsetzungsband geschehen werde, und ging dann dazu über, Kapitel
+                     auszuarbeiten, die die Druckfahnenkapitel ab der Nummer 47 ersetzen. Martha
+                     Musil unterbrach in ihrer Ausgabe des Dritten Bands 1943 die Serie der
+                     Fahnenkapitel nach Nummer 46, fügte anstelle der Kapitel 47 und 48 die Genfer
+                     Kapitel mit den Nummern 47-52 ein und setzte dann mit den Druckfahnenkapiteln
+                     ab Nummer 49 fort. Frisé übernahm 1952 diese Textfolge, erst 1978 publizierte
+                     er die Fahnen-Mappe geschlossen als Romanfortsetzung.</p>
+                  <p><origDate notBefore="193711" notAfter="193808">Datierungsabschnitt 8-3:
+                        November 1937 - August 1938</origDate></p>
+               </history>
+
+               <msPart>
+                  <msIdentifier xml:id="sn151240010" sameAs="Druckfahnen/1">
+                     <msName>F 1</msName>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <title type="chapter" n="39">Nach der Begegnung</title>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc>
+                        <supportDesc>
+                           <support rend="recte">Druckseite bräunlich</support>
+                           <extent>195x544</extent>
+                        </supportDesc>
+                     </objectDesc>
+                  </physDesc>
+               </msPart>
+
+               <msPart>
+                  <msIdentifier xml:id="sn151240020" sameAs="Druckfahnen/2">
+                     <msName>F 2</msName>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <title type="chapter" n="39">Nach der Begegnung</title>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc>
+                        <supportDesc>
+                           <support rend="recte">Druckseite bräunlich</support>
+                           <extent>195x544</extent>
+                        </supportDesc>
+                     </objectDesc>
+                  </physDesc>
+               </msPart>
+
+               <msPart>
+                  <msIdentifier xml:id="sn151240030" sameAs="Druckfahnen/3">
+                     <msName>F 3</msName>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <title type="chapter" n="39">Nach der Begegnung</title>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc>
+                        <supportDesc>
+                           <support rend="recte">Druckseite bräunlich</support>
+                           <extent>195x544</extent>
+                        </supportDesc>
+                     </objectDesc>
+                  </physDesc>
+               </msPart>
+
+               <msPart>
+                  <msIdentifier xml:id="sn151240040" sameAs="Druckfahnen/4">
+                     <msName>F 4</msName>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <title type="chapter" n="39">Nach der Begegnung</title>
+                        <title type="chapter" n="40">Der Tugut</title>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc>
+                        <supportDesc>
+                           <support rend="recte">Druckseite bräunlich</support>
+                           <extent>195x544</extent>
+                        </supportDesc>
+                     </objectDesc>
+                  </physDesc>
+               </msPart>
+
+               <msPart>
+                  <msIdentifier xml:id="sn151240050" sameAs="Druckfahnen/5">
+                     <msName>F 5</msName>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <title type="chapter" n="40">Der Tugut</title>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc>
+                        <supportDesc>
+                           <support rend="recte">Druckseite bräunlich</support>
+                           <extent>195x544</extent>
+                        </supportDesc>
+                     </objectDesc>
+                  </physDesc>
+               </msPart>
+
+               <msPart>
+                  <msIdentifier xml:id="sn151240060" sameAs="Druckfahnen/6">
+                     <msName>F 6</msName>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <title type="chapter" n="40">Der Tugut</title>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc>
+                        <supportDesc>
+                           <support rend="recte">Druckseite bräunlich</support>
+                           <extent>195x544</extent>
+                        </supportDesc>
+                     </objectDesc>
+                  </physDesc>
+               </msPart>
+
+               <msPart>
+                  <msIdentifier xml:id="sn151240070" sameAs="Druckfahnen/7">
+                     <msName>F 7</msName>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <title type="chapter" n="40">Der Tugut</title>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc>
+                        <supportDesc>
+                           <support rend="recte">Druckseite bräunlich</support>
+                           <extent>195x544</extent>
+                        </supportDesc>
+                     </objectDesc>
+                  </physDesc>
+               </msPart>
+
+               <msPart>
+                  <msIdentifier xml:id="sn151240080" sameAs="Druckfahnen/8">
+                     <msName>F 8</msName>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <title type="chapter" n="40">Der Tugut</title>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc>
+                        <supportDesc>
+                           <support rend="recte">Druckseite bräunlich</support>
+                           <extent>195x544</extent>
+                        </supportDesc>
+                     </objectDesc>
+                  </physDesc>
+               </msPart>
+
+               <msPart>
+                  <msIdentifier xml:id="sn151240090" sameAs="Druckfahnen/9">
+                     <msName>F 9</msName>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <title type="chapter" n="40">Der Tugut</title>
+                        <title type="chapter" n="41">Die Geschwister am nächsten Morgen</title>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc>
+                        <supportDesc>
+                           <support rend="recte">Druckseite bräunlich</support>
+                           <extent>195x544</extent>
+                        </supportDesc>
+                     </objectDesc>
+                  </physDesc>
+               </msPart>
+
+               <msPart>
+                  <msIdentifier xml:id="sn151240100" sameAs="Druckfahnen/10">
+                     <msName>F 10</msName>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <title type="chapter" n="41">Die Geschwister am nächsten Morgen</title>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc>
+                        <supportDesc>
+                           <support rend="recte">Druckseite bräunlich</support>
+                           <extent>195x544</extent>
+                        </supportDesc>
+                     </objectDesc>
+                  </physDesc>
+               </msPart>
+
+               <msPart>
+                  <msIdentifier xml:id="sn151240110" sameAs="Druckfahnen/11">
+                     <msName>F 11</msName>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <title type="chapter" n="41">Die Geschwister am nächsten Morgen</title>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc>
+                        <supportDesc>
+                           <support rend="recte">Druckseite bräunlich</support>
+                           <extent>195x548</extent>
+                        </supportDesc>
+                     </objectDesc>
+                  </physDesc>
+               </msPart>
+
+               <msPart>
+                  <msIdentifier xml:id="sn151240120" sameAs="Druckfahnen/12">
+                     <msName>F 12</msName>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <title type="chapter" n="41">Die Geschwister am nächsten Morgen</title>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc>
+                        <supportDesc>
+                           <support rend="recte">Druckseite bräunlich</support>
+                           <extent>195x548</extent>
+                        </supportDesc>
+                     </objectDesc>
+                  </physDesc>
+               </msPart>
+
+               <msPart>
+                  <msIdentifier xml:id="sn151240130" sameAs="Druckfahnen/13">
+                     <msName>F 13</msName>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <title type="chapter" n="41">Die Geschwister am nächsten Morgen</title>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc>
+                        <supportDesc>
+                           <support rend="recte">Druckseite bräunlich</support>
+                           <extent>195x548</extent>
+                        </supportDesc>
+                     </objectDesc>
+                  </physDesc>
+               </msPart>
+
+               <msPart>
+                  <msIdentifier xml:id="sn151240140" sameAs="Druckfahnen/14">
+                     <msName>F 14</msName>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <title type="chapter" n="41">Die Geschwister am nächsten Morgen</title>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc>
+                        <supportDesc>
+                           <support rend="recte">Druckseite bräunlich</support>
+                           <extent>195x548</extent>
+                        </supportDesc>
+                     </objectDesc>
+                  </physDesc>
+               </msPart>
+
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+
+      <profileDesc>
+         <handNotes>
+            <handNote xml:id="kur">Notat Musils in Kurrentschrift = Korrekturschicht c)</handNote>
+            <handNote xml:id="mm">Kapitelnummerierung Martha Musils = Korrekturschicht d)</handNote>
+            <handNote xml:id="red">Korrektur mit Hilfe von Rotstift ausgeführt = Korrekturschicht a)</handNote>
+            <handNote xml:id="blue">Korrektur mit Hilfe von Blaustift ausgeführt = Korrekturschicht a)</handNote>
+         </handNotes>
+      </profileDesc>
+
+   </teiHeader>
+
+   <text>
+      <body>
+         <pb n="1" corresp="#sn151240010" sameAs="#F_1"/>
+         <fw>1</fw>
+         <div n="39">
+            <head type="chapter" n="39"><subst hand="#mm">
+                     <del>39</del>
+                     <add>1</add>
+            </subst> <hi rend="italic">Nach der Begegnung</hi></head>
+
+            <p>DER MANN, der am Grab des Dichters in Agathes Leben getreten war, Professor August
+               Lindner, sah, talwärts steigend, Bilder der Rettung vor sich. </p>
+            <p>Hätte sie ihm beim Abschied nachgeblickt, so wäre ihr der stocksteif den steinigen
+               Weg hinabtänzelnde Gang des Mannes aufgefallen, denn es war ein eigenartig heiterer,
+               stolzer und doch ängstlicher Gang. Lindner trug seinen Hut in der Hand und strich
+               sich zuweilen übers Haar; so wohlig frei war ihm <choice>
+                  <seg n="alt1">zumute</seg>
+                  <seg n="alt2"><add place="above" hand="#mm">zu Mute</add></seg>
+               </choice> geworden.</p>
+            <p>„Wie wenig Menschen“ <del>,</del>
+               <metamark function="del" place="margin"/> sprach er zu sich selbst <del>,</del>
+               <metamark function="del" place="margin"/> „haben eine wahrhaft mitfühlende Seele!“ Er
+               malte sich eine Seele aus, die sich ganz in den Mitmenschen hinzuversetzen vermöchte,
+               seine verborgensten Schmerzen mitleiden und sich in seine tiefe Schwäche hinablassen
+               könnte: „Welche Aussicht ist das!“ rief er sich zu. „Welch eine wunderbare Nähe
+               göttlichen Erbarmens, welcher Trost und welcher Feiertag!“ Sodann fiel ihm aber ein,
+               wie wenig Menschen es gebe, die ihrem Nebenmenschen auch nur aufmerksam zuzuhören
+               vermöchten; denn er gehörte zu den Gutgesinnten, die vom Hundertsten ins Hundertstel
+               kommen, ohne einen Unterschied daran zu finden. „Wie wenig ernst gemeint sind zum
+               Beispiel die gewöhnlichen Fragen nach unserem Wohlergehen“ <del>,</del>
+               <metamark function="del" place="margin"/> dachte er. „Man braucht bloß einmal
+               ausführlich zu antworten, wie einem wirklich ums Herz ist, und sieht sich bald genug
+               einem gelangweilten und geistesabwesenden Blick gegenüber!“ </p>
+            <p><seg>Nun, <hi rend="spaced">er</hi> hatte sich dieses Fehlers nicht schuldig gemacht!
+                  Nach seinen Grundsätzen war, den Schwachen zu schützen, die notwendige und
+                  besondere Gesundheitslehre</seg><del><metamark function="hi" place="margin"
+                     rend="#red"/></del> des Starken, der ohne solche wohltuende
+               Selbstbeschränkung allzu leicht der Roheit verfällt; und auch die Bildung bedurfte
+               des Liebeswerks gegen die ihr einwohnenden Gefahren. „Wer uns bedeuten will, was
+               ‚universelle Bildung‘ sei“ <subst>
+                  <del>,</del>
+                  <add place="margin"><del>-</del></add>
+               </subst> bestätigte er sich nun durch innerlichen
+               Zuruf, von einem plötzlich gegen seinen pädagogischen Fachgenossen Hagauer
+               geschleuderten Blitz köstlich <seg>erfrischt - „dem sollte wahrhaftig zuerst geraten
+                  werden:</seg><del><metamark function="hi" place="margin" rend="#red"/></del>
+                  erfahre<add place="margin">,</add> wie dem anderen zumute ist! Durch
+               Mitleid wissend <del>-</del>
+               <add place="margin">, es</add> bedeutet tausendmal mehr<add place="margin">,</add>
+               als durch Bücher wissend sein!“ Anscheinend war es eine alte Meinungsverschiedenheit,
+               was er da einerseits an dem liberalen Begriff der Bildung, anderseits an der Gattin
+               seines Amtsbruders ausließ, denn Lindners Brillen blickten wie zwei Schilde eines
+               doppelgewaltigen Kämpfers in die Runde. In Agathes Gegenwart war er befangen; wenn
+               sie ihn dagegen jetzt gesehen hätte, wäre er ihr wie ein Offizier vorgekommen, aber
+               wie ein Offizier einer keineswegs leichtsinnigen Truppe. Denn eine wahrhaft männliche
+               Seele ist hilfsbereit, und sie ist hilfsbereit, weil sie männlich ist. Er warf die
+               Frage auf, ob er angesichts der schönen Frau richtig gehandelt habe, und erwiderte
+               sich: „Es wäre falsch, wenn die stolze Forderung der Unterordnung unter das Gesetz
+               denen überlassen bliebe, die zu schwach dafür sind; und es wäre ein entmutigender
+               Anblick, wenn bloß geistlose Pedanten die Hüter und Bildner der Sitte sein dürften:
+               darum ist den Lebendigen und Starken die Pflicht auferlegt, aus ihrem Kraft- und
+               Gesundheitsinstinkt nach Zucht und Grenze zu verlangen; sie <pb n="2"
+                  corresp="#sn151240020" sameAs="#F_2"/>
+               <fw>2</fw> müssen die Schwachen stützen, die Gedankenlosen rütteln, und die
+               Zügellosen anhalten!“ Er hatte den Eindruck, es getan zu haben. </p>
+            <p>So <del>,</del>
+               <metamark function="del" place="margin"/> wie die fromme Seele der Heilsarmee sich
+               der Uniform und militärischer Gebräuche bedient, hatte Lindner gewisse soldatische
+               Gedankenformen in seinen Dienst genommen, ja er scheute nicht einmal vor
+               Zugeständnissen an den „Machtmenschen“ Nietzsches zurück, der dem bürgerlichen Geiste
+               jener Zeit noch ein Stein des Anstoßes, Lindner aber auch ein Wetzstein war. Er
+               pflegte von Nietzsche zu sagen, man könne nicht behaupten, daß er ein schlechter
+               Mensch gewesen wäre, wohl aber seien seine Lehren übertrieben und lebensfremd, und
+               der Grund liege darin, daß er das Mitleid verwerfe; denn so habe er nicht die
+               wunderbare Gegengabe des Schwachen erkannt, daß dieser den Starken zart mache! Und
+               seine eigenen Erfahrungen dem nun entgegensetzend, dachte er voll froher Absicht:
+               „Die wahrhaft großen Menschen huldigen keineswegs einem öden Ichkultus, sondern sie
+               erzeugen in den anderen das Gefühl ihrer Erhabenheit dadurch, daß sie sich zu ihnen
+               hinabbeugen, j<subst>
+               <del>a</del><add place="margin">a,</add>
+               </subst>
+               <metamark function="hi" place="margin" rend="#red"/> wenn es sein muß, für sie opfern!“ Er
+               blickte einem jungen Liebespaar, das, sehr verschlungen, herauf- und ihm entgegenkam,
+               siegesgewiß und mit freundlichem Tadel, der zur Tugend ermuntern sollte, in die
+               Augen. Es war aber ein recht ordinäres Liebespaar, und der junge Strolch, der seinen
+               männlichen Teil bildete, kniff die Augenlider zusammen, als er diesen Blick
+               erwiderte, streckte unvermittelt die Zunge heraus und sagte: „Bäh!“ Lindner, der auf
+               diese Verhöhnung und gemeine Drohung nicht vorbereitet war, erschrak; aber er tat,
+               als bemerke er sie nicht. Er liebte die Tatkraft, und sein Blick suchte nach einem
+               Schutzmann, der in der Nähe sein sollte, die öffentliche Sicherheit der Ehre zu
+               gewährleisten; aber sein Fuß stieß dabei an einen Stein, die hastige Bewegung des
+               Stolperns scheuchte einen Schwarm Sperlinge auf, der sich an Gottes Tisch über einem
+               Haufen Pferdemist gütlich getan hatte, das Aufschwirren der Spatzen warnte Lindner
+               und ließ ihn im letzten Augenblick, ehe er schmählich stürzte, mit einer tänzerisch
+               bemäntelten Bewegung über das Doppelhindernis hinweghüpfen. Er blickte nicht zurück,
+               und nach einer Weile war er sehr zufrieden mit sich. „Fest wie ein Diamant und zart
+               wie eine Mutter muß man sein!“ dachte er mit einer alten Definition aus dem
+               siebzehnten Jahrhundert. </p>
+            <p>Er hätte, da er auch die Tugend der Bescheidenheit schätzte, zu keiner andern Zeit
+               etwas Ähnliches in Ansehung seiner selbst behauptet, aber solche Erregung des Blutes
+               ging von Agathe aus! Hinwieder bildete es den negativen Pol seiner Gefühle, daß
+               dieses himmlisch zarte Weib, das er in Tränen gefunden hatte <del>,</del>
+               <del><metamark function="del" place="margin"/></del> wie der Engel die Magd im Tau - oh, er
+               wollte sich nicht überheben, aber wie doch Nachgiebigkeit gegen Poesie gleich
+               überheblich macht! – er fuhr <choice>
+                  <seg n="alt1"><hi rend="underline">also</hi></seg>
+                  <seg n="alt2"><add place="margin" hand="#kur">darum</add></seg>
+               </choice> strenger fort: daß diese unselige Frau im Begriffe stand, ein in die Hand
+               Gottes abgelegtes Gelübde zu brechen; denn als das sah er ihr Begehren nach
+               Ehescheidung an. Er hatte es ihr leider nicht mit der erforderlichen Entschiedenheit
+               von Angesicht zu Angesicht - Gott, welche Nähe nun wieder in diesen Worten! – er
+               hatte es ihr <hi rend="underline">also</hi> leider nicht entschieden genug
+               vorgestellt; er entsann sich bloß, im allgemeinen von zu lockeren Sitten und den
+               Schutzmitteln gegen sie gesprochen zu haben. Der Name Gottes war übrigens dabei gewiß
+               nicht über seine Lippen gekommen, es wäre denn als inhaltslose Redensart; und die
+               Ungezwungenheit, der <seg type="word" part="I">un</seg>
+               <pb n="3" corresp="#sn151240030" sameAs="#F_3"/>
+               <fw>3</fw>
+               <seg type="word" part="F">befangene</seg>, man mochte geradezu sagen, der respektlose
+               Ernst, womit ihn Agathe gefragt hatte, ob er an Gott glaube, verletzte ihn selbst
+               noch in der Erinnerung. Denn der wahrhaft Fromme gestattet sich nicht, einfach einem
+               Einfall zu folgen und in roher Unverhülltheit an Gott zu denken. Ja, in dem
+               Augenblick, <hi rend="underline_red">wo</hi>
+               <metamark function="hi" place="margin" rend="#red">_</metamark> sich Lindner dieser Zumutung entsann,
+               verabscheute er Agathe, als wäre er auf eine Schlange getreten. Er faßte den
+               Beschluß, sollte er je in die Lage kommen, seine Ermahnungen bei ihr zu wiederholen,
+               durchaus nur die kräftige Vernunft walten zu lassen, die den irdischen
+               Angelegenheiten angemessen <del>,</del>
+               <metamark function="del" place="margin"/> und deshalb auf der Welt <subst>
+               <del>ist, damit</del>
+               <add place="margin">sei, weil</add>
+               </subst> nicht jeder ungezogene Mensch mit seinen längst
+               entschiedenen Verwirrungen Gott bemühen dürfe; und darum begann er sich ihrer auch
+               gleich jetzt zu bedienen, und es fiel ihm manches Wort ein, das einer Strauchelnden
+               zu sagen wäre. Zum Beispiel, daß die Ehe keine Privatangelegenheit, sondern eine
+               öffentliche Einrichtung sei; daß sie die erhabene Aufgabe habe, das
+               Verantwortlichkeits- und Mitgefühl zu entfalten, und die ein Volk stählende Aufgabe,
+               den Menschen auch im Ertragen von harten Schwierigkeiten zu üben; ja vielleicht,
+               wenngleich es nur mit größtem Taktgefühl anzubringen wäre, daß sie gerade bei
+               längerer Dauer auch den besten Schutz gegen das Übermaß der Begierde darstelle. Er
+               hatte vom Menschen vielleicht nicht mit Unrecht die Vorstellung eines Sackes voll
+               Teufel, der fest zugebunden werden müsse, und den Bund sah er in unerschütterlichen
+               Grundsätzen.</p>
+            <p>Wie dieser teilnahmsvolle Mann, dessen körperliches Teil, außer in der Länge<add
+                  place="margin">,</add> in keiner Richtung überschüssig geraten war, die
+               Überzeugung erlangt hatte, daß man sich auf Schritt und Tritt bezähmen müsse, das war
+               freilich ein Rätsel, das sich erst dann leicht löste, wenn man den Vorteil kannte.
+               Als er schon am Fuß der Hügel angelangt war, kreuzte ein Zug Soldaten seine Bahn, und
+               er sah mit zärtlicher Rührung auf die verschwitzten jungen Männer, die ihre Kappen in
+               die Nacken geschoben hatten und mit ihren von Ermüdung abgestumpften Gesichtern wie
+               ein Zug verstaubter Raupen aussahen. Sein Abscheu vor dem Leichtsinn, womit Agathe
+               die Frage der <choice>
+                  <seg n="alt1">Scheidung</seg>
+                  <seg n="alt2">Ehescheidung</seg>
+               </choice><metamark place="margin" rend="#kur">Ehesch...</metamark> behandelt hatte,
+               wurde bei diesem Anblick träumerisch durch eine Freude daran gemildert, daß solches
+               seinem freigeistigen Fachgenossen Hagauer widerfahren solle, und diese Regung war
+               immerhin geeignet, ihn wieder an das unentbehrliche Mißtrauen gegen die menschliche
+               Natur zu erinnern. Er nahm sich also vor, Agathe - sollte sich die Gelegenheit dazu
+               wirklich und ohne sein Verschulden noch einmal darbieten - unnachsichtig vor Augen zu
+               führen, daß die ichsüchtigen Kräfte letzten Endes doch nur zerstörend wirken, und daß
+               sie ihre persönliche Verzagtheit, mochte sie noch so groß sein, der sittlichen
+               Erkenntnis unterzuordnen habe, daß der wahre Prüfstein des Lebens erst das
+               Zusammenleben ist. </p>
+            <p><hi rend="underline">Aber</hi>ob sich die Gelegenheit dazu noch einmal darbieten
+               werde, war offenbar erst der Punkt, wohin die geistigen Kräfte Lindners so angeregt
+               drängten. „Es gibt viele Menschen mit edlen Eigenschaften, die <choice>
+                  <seg n="alt1"><hi rend="underline">aber</hi></seg>
+                  <seg n="alt2"><add place="margin" hand="#kur">bloß</add></seg>
+               </choice> noch nicht in einer unerschütterlichen Überzeugung gesammelt sind“
+                  <del>,</del><metamark function="del" place="margin"/> gedachte er Agathe zu sagen;
+               aber wie sollte er es tun, wenn er sie nicht wiedersähe; und doch widerstritt der
+               Gedanke, daß sie ihn aufsuchen könnte, allen seinen Vorstellungen von zarter und
+               unberührter Weiblichkeit. „Man müßte es ihr denn mit aller Entschiedenheit sogleich
+               vor Augen halten!“ nahm er sich vor, und weil er nun einmal diesen Vorsatz gefaßt
+               hatte, zweifelte er <pb n="4" corresp="#sn151240040" sameAs="#F_4"/>
+               <fw>4</fw> auch nicht mehr daran, daß sie wirklich kommen <hi rend="underline_red"
+                  >werde.</hi><metamark function="hi" place="margin" rend="#red">_</metamark> Er ermahnte
+               sich lebhaft, die Gründe, die sie zu ihrer Entschuldigung anführen <subst>
+                  <del><seg n="alt1"><hi rend="underline_red">werde</hi></seg></del>
+                  <seg n="alt2">würde</seg>
+                  <add place="margin">sollte</add>
+               </subst>
+               <del><note place="margin">ü</note></del>, selbstlos mit ihr zu durchleben, ehe er sie
+               von ihren Irrtümern überzeuge<del>n <hi rend="underline_red"
+                  >werde</hi></del><metamark function="del" place="margin"/>. Mit unbeirrbarer
+               Geduld wollte er sie ins Herz treffen, und nachdem er sich auch das vorgestellt
+               hatte, senkte sich ein edles Gefühl brüderlicher Achtsamkeit und Fürsorge in sein
+               eigenes Herz, eine geschwisterliche Weihe, von der er bemerkte, daß sie überhaupt auf
+               den Beziehungen ruhen sollte, die die Geschlechter zueinander unterhalten. „Die
+               wenigsten Männer“ <del>,</del><metamark function="del" place="margin"/> rief er
+               erbaut aus <del>,</del><metamark function="del" place="margin"/> „haben eine Ahnung
+               davon, welches tiefe Bedürfnis edle weibliche Wesen nach dem Edel-Mann haben, der
+               schlicht mit dem Menschen in der Frau verkehrt, ohne durch geschlechtliche
+               Gefallsucht gleich gestört zu werden!“ Es mußten ihm diese Gedanken Flügel geliehen
+               haben, denn er wußte nicht, wie er zu der Endstelle der elektrischen Straßenbahn
+               gelangt <hi rend="underline_red">sei,</hi><metamark function="hi" place="margin"
+                  rend="#red">_</metamark> stand aber plötzlich vor ihr und nahm, ehe er einstieg, die
+               Brille ab, um sie von dem Dunst zu reinigen, mit dem sie die erhitzenden inneren
+               Vorgänge beschlagen hatten. Dann schwang er sich in eine Ecke, blickte in dem leeren
+               Wagen um sich, machte das Fahrgeld bereit, sah dem Schaffner ins Gesicht und fühlte
+               sich ganz auf dem Posten, in der bewundernswerten Gemeinschaftseinrichtung, die man
+               Städtische Straßenbahn nennt, die Rückreise anzutreten. Durch ein wohliges Gähnen
+               strömte er die Müdigkeit des Spazi<subst>
+                  <del>e</del>
+                  <add place="margin">er</add>
+                  </subst>gangs aus, um sich für
+               neue Pflichten zu straffen, und faßte die erstaunlichen Abschweifungen, denen er sich
+               ergeben hatte, in dem Satz zusammen: „Sich selbst zu vergessen, ist doch dem Menschen
+               das Gesündeste, was es gibt!“</p>
+         </div>
+         <div n="40">
+            <head type="chapter" n="40"><subst hand="#mm">
+                     <del>40</del>
+                     <add>2</add>
+            </subst> <hi rend="italic">Der Tugut</hi></head>
+
+            <p>ES GIBT gegen die unberechenbaren Regungen eines leidenschaftlichen Herzens nur ein <choice>
+                  <seg n="alt1">verläßliches</seg>
+                  <seg n="alt2"><add place="margin" rend="#kur">zuverläßiges</add></seg>
+               </choice> Mittel: streng <seg function="transposition" xml:id="ib1"
+                     ><del>ausgeführte</del>
+                  <add place="margin"><choice>
+                        <seg n="alt1">ein</seg>
+                        <seg n="alt2"><add place="margin" rend="#kur">durch</add></seg>
+                     </choice>gehaltene</add> Planmäßigkeit</seg> bis <choice>
+                  <seg n="alt1">ins</seg>
+                  <seg n="alt2"><add place="margin" rend="#kur">zum</add></seg>
+                     </choice> letzte <seg xml:id="ib2"><metamark function="transposition"/></seg><listTranspose>
+                  <transpose>
+                     <ptr target="#ib2"/>
+                     <ptr target="#ib1"/>
+                  </transpose>
+               </listTranspose>; und ihr, die er beizeiten erworben hatte, verdankte Lindner sowohl
+               die Erfolge seines Lebens als auch den Glauben, von Natur ein leidenschaftsstarker
+               und schwer zu disziplinierender Mann gewesen zu sein. Er stand des Morgens früh auf,
+               Sommer und Winter um die gleiche Stunde, wusch sich an einem kleinen eisernen
+               Waschtisch Gesicht, Hals, Hände und ein Siebentel seines Körpers, jeden Tag natürlich
+               ein anderes, worauf er den übrigen Körper mit einem nassen Handtuch abrieb, <choice>
+                  <seg n="alt1">so<milestone unit="space"/>daß</seg>
+                  <seg n="alt2"><add place="margin" rend="#kur">auf welche Weise</add></seg>
+               </choice>
+               <add place="margin" rend="#kur"><choice>
+                  <seg n="alt1">eine Einteilung, durch die</seg>
+                  <seg n="alt2">durch welche Einteilung</seg>
+               </choice></add> das Bad, dieser zeitraubende und wollüstige Vorgang, auf einen Abend aller
+               zwei Wochen beschränkt werden konnte. Es lag darin ein kluger Sieg über die Materie;
+               und wer je Gelegenheit gehabt hat, die unzureichenden Waschgelegenheiten und
+               unbequemen Betten zu betrachten, mit denen sich historisch gewordene Persönlichkeiten
+               begnügt haben, der wird sich kaum der Mutmaßung entschlagen können, daß zwischen
+               eisernen Betten und eisernen Männern ein Zusammenhang bestehen müsse, wenn <choice>
+                  <seg n="alt1">wir</seg>
+                  <seg n="alt2"><add>man</add></seg>
+               </choice> ihn auch nicht übertreiben <choice>
+                  <seg n="alt1">wollen</seg>
+                  <seg n="alt2"><add>soll</add></seg>
+               </choice><metamark place="margin" rend="#kur">~ soll man</metamark>, da wir sonst
+               gleich auf <hi rend="underline_red">Näg</hi><del><metamark function="hi"
+                     place="margin" rend="#red">_</metamark></del>elbetten schlafen dürften. Hier war dem
+               Nachdenken also überdies eine vermittelnde Aufgabe gestellt, und nachdem sich Lindner
+               im Widerschein anregender Beispiele gewaschen hatte, nützte er <choice>
+                  <seg n="alt1">denn</seg>
+                  <seg n="alt2"></seg>
+               </choice>
+               <metamark function="del" place="margin"/> auch das Abtrocknen nur
+               mit Maß dazu aus, dem Körper durch geschickte Benutzung des Handtuches<pb n="5"
+                  corresp="#sn151240050" sameAs="#F_5"/>
+               <fw>5</fw> einige Bewegung zu geben. Ist es doch eine verhängnisvolle Verwechslung,
+               die Gesundheit auf den tierischen Teil des Menschen zu gründen, geistiger und
+               sittlicher Adel sind es vielmehr, woraus die körperliche Widerstandsfähigkeit
+               hervorgeht; und wenn das auch nicht immer auf den <subst>
+                  <del>E</del>
+                  <add place="margin">e</add></subst>
+                  inzelnen zutrifft, <choice>
+                  <seg n="alt1">so <subst><del>d</del><add place="margin">trifft es d</add></subst>afür</seg>
+                  <seg n="alt2">so wirkt es doch</seg>
+                  <seg n="alt3">tut es das</seg>
+               </choice> umso sicherer im <subst>
+                  <del>G</del>
+                  <add place="margin">g</add>
+               </subst>roßen <subst>
+                  <del>,</del>
+                  <add place="margin">zu,</add>
+               </subst> denn die Kraft eines Volkes ist die Folge
+               des rechten Geistes, und nicht gilt es umgekehrt. Lindner hatte darum seinen
+               Abreibungen auch eine besondere und sorgfältige Ausbildung angedeihen lassen, die es
+               vermied, mit rücksichtslosem Zugreifen den üblichen männlichen Götzendienst zu
+               treiben, dafür aber die ganze Persönlichkeit beteiligte, indem er die Bewegungen
+               seines Körpers mit schönen inneren Aufgaben verband. Er verabscheute besonders die
+               halsbrecherische Anbetung der <subst>
+                  <del>Tatkraft</del>
+                  <add place="margin">Schneidigkeit</add>
+               </subst>, die, von außen kommend, nun auch schon in seinem Vaterland manchem als
+               Ideal vorschwebte; und sich von ihr abzuwenden, gehörte ganz und gar zu seinen
+               Morgenübungen. Er ersetzte sie bei diesen mit großer Umsicht durch ein
+               staatsmännischeres Verhalten im turnerischen Gebrauch seiner Gliedmaßen und verband
+               Anspannung der Willenskraft mit rechtzeitiger Nachgiebigkeit, Schmerzüberwindung mit
+               verständiger Menschlichkeit, und wenn er als abschließende Mutübung etwa über einen
+               umgelegten Stuhl sprang, so geschah es mit ebenso viel Zurückhaltung wie
+               Selbstvertrauen. Eine solche Entfaltung des ganzen Reichtums an menschlichen Anlagen
+               machte ihm seine Leibesübungen, seit er sie vor einigen Jahren aufgenommen hatte, zu
+               wahren Tugendübungen.</p>
+            <p>Soviel wäre im Fluge aber auch gegen den Ungeist vergänglicher Selbstbehauptung zu
+               sagen, der sich, unter dem Schlagwort der Körperpflege, des an sich gesunden
+               Gedankens des Sports bemächtigt hat, Zusätzliches <subst>
+                  <del>aber</del>
+                  <add place="margin"><subst>
+                     <del>hingegen</del> 
+                     <add>indes</add></subst></add>
+               </subst> noch gegen die besondere weibliche Form dieses Ungeistes als
+               Schönheitspflege. Lindner schmeichelte sich, zu den wenigen zu gehören, die Licht und
+               Schatten auch da richtig zu verteilen wüßten, und so, wie er bereit war, dem
+               Zeitgeist allenthalben einen unverderbten Kern zu entnehmen, anerkannte er auch die
+               sittliche Verpflichtung, so gesund und wohlgefällig zu erscheinen wie nur möglich. Er
+               selbst pflegte sorgfältig jeden Morgen Bart und Haar, hielt seine Nägel kurz und
+               peinlich sauber, nahm etwas Brillantine aufs Haupt und etwas schützende Salbe auf die
+               tagsüber viel<milestone unit="space"/>erduldenden Füße<subst>
+                  <del>;</del>
+                  <add place="margin">:</add>
+               </subst>wer dagegen möchte leugnen, daß es ein Zuviel an dem Körper gewidmeter
+               Aufmerksamkeit ist, womit eine weltliche Frau ihren Tag verbringt<subst>
+                  <del>.</del>
+                  <add place="margin">?</add>
+               </subst> Sollte es aber wirklich nicht anders sein können<del>,</del><metamark
+                  function="del" place="margin"/>
+               <seg function="transposition"><metamark xml:id="ib3"/></seg><listTranspose>
+                  <transpose>
+                     <ptr target="#ib4"/>
+                     <ptr target="#ib3"/>
+                  </transpose>
+               </listTranspose><metamark place="margin" rend="#blue"/> als daß
+                  <del>einander</del><metamark function="del" place="margin"/> Badewässer und
+               Gesichtsbäder, Salben und Packungen, Hand- und Fußkünsteleien, Knetmeister und
+               Haarkünstler <add place="margin">einander</add> in kaum unterbrochener Folge ablösen
+                  <seg xml:id="ib4">- er kam Frauen gerne zart entgegen, zumal <choice>
+                     <seg n="alt1">wenn</seg>
+                     <seg n="alt2"><add place="margin" hand="kur"><hi rend="underline">weil</hi></add>
+                     </seg></choice> sich unter ihnen auch die von hochmögenden Männern
+                  befinden konnten -,</seg> so empfahl er als Gegengewicht <subst>
+                  <del>zu dieser</del>
+                  <add place="margin">solcher</add>
+               </subst> einseitigen Körperpflege den von ihm in öffentlicher Rede geprägten Begriff
+               der inneren Schönheitspflege, oder kurz Innenpflege. Möge uns beispielsweise die
+               Reinigung an die innere Reinheit mahnen, die Salbung an die Pflichten gegen die
+               Seele, die Massage an die Hand des Schicksals, worin wir uns befinden, und die
+               Feilung der Fußspitzen daran, daß wir auch im noch tiefer Verborgenen ein schöner
+               Anblick sein sollen. So übertrug er sein Bild auf die Frauen, überließ es ihnen aber
+               selbst, die Einzelheiten den Bedürfnissen ihres Geschlechts anzupassen.</p>
+            <pb n="6" corresp="#sn151240060" sameAs="#F_6"/>
+            <fw>6</fw>
+            <p>Freilich hätte es geschehen können, daß ein Unvorbereiteter durch den Anblick, den
+               Lindner beim Schönheits- und Gesundheitsdienst, vollends aber während des Waschens
+               und Abtrocknens darbot, zum Lachen gereizt würde: denn seine Bewegungen riefen, bloß
+               körperlich betrachtet, die Vorstellung eines sich vielfach wendenden Schwanenhalses
+               hervor, der außerdem nicht aus Rundung, sondern aus dem spitzen Element von Knie und
+               Ellbogen bestand; die von der Brille befreiten<del>,</del>
+               <del><metamark function="del" place="margin"/></del> kurzsichtigen Augen blickten märtyrerhaft
+               in die Weite, als ob man ihren Blick nahe beim Auge abgeschnitten hätte, und unter
+               dem Bart warfen sich die weichen Lippen im Schmerz der Anstrengung auf. Wer aber
+               geistig zu <hi rend="underline_red">sehen</hi><del><metamark function="hi" place="margin"
+                  rend="#red"/></del> verstand, der konnte wohl das Schauspiel erleben, äußere und
+               innere Kräfte in reiflich überlegter gegenseitiger Hervorbringung zu <hi
+                  rend="underline_red">sehn</hi>
+               <del><metamark function="hi" place="margin" rend="#red"/></del>; und wenn Lindner
+               dabei an die armen Frauen dachte, die Stunden im Bade- und Ankleidezimmer verbringen
+               und die Phantasie einseitig durch Leibeskultus erhitzen, so konnte er sich selten des
+               Gedankens erwehren, wie gut es ihnen täte, wenn sie einmal ihm zusehen könnten.
+               Harmlos und rein begrüßen sie die moderne Körperpflege und machen sie mit, weil sie
+               in ihrer Unkenntnis nicht ahnen, daß solche große dem tierischen Teil gewidmete
+               Aufmerksamkeit allzu leicht Ansprüche in diesem weckt, die das Leben zerstören
+               können, wenn man sie nicht in strenge Dienstbarkeit nimmt! </p>
+            <p>Überhaupt verwandelte Lindner schlechthin alles, womit er in Berührung kam, in eine
+               sittliche Forderung; und ob er sich in Kleidern befand oder nicht, war jede Stunde
+               des Tags bis zum Eintritt traumlosen Schlafs von einem wichtigen Inhalt ausgefüllt,
+               dem sie ein für allemal vorbehalten blieb. <subst>
+                  <del>Es sei einiges daraus hervorgehoben: Lindner</del>
+                  <add place="margin">Er</add>
+               </subst>schlief <note place="margin" rend="kur">
+                  <del>~ wegen seiner Vorbildlichkeit als <choice>
+                        <seg n="alt1">geistiges</seg>
+                        <seg n="alt2">Erfolg verheissendes</seg>
+                     </choice> Beispiel</del></note> sieben Stunden; seine Lehrverpflichtung, die das
+               Ministerium mit Rücksicht auf seine wohlgelittene schriftstellerische Tätigkeit
+               eingeschränkt hatte, forderte drei bis fünf Stunden des Tages von ihm, in denen schon
+               die Vorlesung über Pädagogik inbegriffen war, die er wöchentlich zweimal an der
+               Universität abhielt; fünf zusammenhängende Stunden - das sind fast zwanzigtausend
+               Stunden in einem Jahrzehnt! – waren dem Lesen vorbehalten; zweieinhalb Stunden
+               dienten der ohne Stockung aus dem inneren Gestein seiner Persönlichkeit wie eine
+               klare Quelle fließenden Niederschrift seiner eigenen Arbeiten; die Mahlzeiten
+               beanspruchten täglich eine Stunde für sich; eine Stunde war dem Spaziergang gewidmet
+               und zugleich der Erbauung an großen Fach- und Lebensfragen, während eine andere dem
+               beruflich bedingten Ortswechsel und zugleich dem gewidmet blieb, was Lindner das
+               kleine Nachdenken nannte, der Sammlung des Geistes auf den Gehalt der eben
+               vergangenen und der kommenden Beschäftigung; andere Zeitstücke hinwieder waren, teils
+               ein für allemal, teils im Rahmen der Woche wechselnd, für An- und Auskleiden, Turnen,
+               Briefe, Wirtschaftsangelegenheiten, Behörden und nützliche Geselligkeit vorgesehen.
+               Auch ist es natürlich, daß die Ausführung dieses Lebensplans nicht nur nach seinen
+               großen und strengen Linien erfolgte, sondern noch allerhand Besonderheiten mit sich
+               brachte, wie den Sonntag <del>,</del><metamark function="del" place="margin"/> mit
+               seinen alltäglichen Pflichten, den größeren Überlandspaziergang, der alle vierzehn
+               Tage stattfand, oder das Vollbad, und daß sie auch tägliche Doppeltätigkeiten
+               enthielt, die noch nicht erwähnt werden konnten und zu denen beispielsweise der
+               Umgang Lindners mit seinem Sohn während der <pb n="7" corresp="#sn151240070"
+                  sameAs="#F_7"/>
+               <fw>7</fw> Mahlzeiten gehörte<add place="margin">,</add> oder beim raschen Ankleiden
+               die Übung des Charakters in der geduldigen Überwindung von unvorhergesehenen
+               Schwierigkeiten. </p>
+            <p>Charakterübungen solcher Art sind nicht nur möglich<add place="margin">,</add>
+               sondern auch überaus nützlich, und Lindner hatte eine ursprüngliche Vorliebe für sie.
+               „In dem Kleinen, was ich recht tue, sehe ich ein Bild von allem Großen, was in der
+               Welt recht getan wird“<del>,</del>
+               <metamark function="del" place="margin"/> stand schon bei Goethe zu lesen, und in
+               diesem Sinn kann eine Mahlzeit so gut wie ein Schicksalsauftrag als Pflegestatt der
+               Selbstbeherrschung und Siegesstatt über die Begehrlichkeit dienen; ja
+                  <del>,</del><del><metamark function="del" place="margin"/></del> an dem allen Überlegungen
+               unzugänglichen Widerstand eines Kragenknopfes vermag der tiefer blickende Sinn
+               geradezu den Umgang mit Kindern zu erlernen. Lindner betrachtete Goethe keineswegs in
+               allem als Vorbild; aber welch köstliche Demut hatte er nicht schon daraus gewonnen,
+               daß er mit Hammerschlägen einen Nagel in die Wand zu treiben versucht hatte, einen
+               zerrissenen Handschuh selbst zu stopfen unternahm oder eine verdorbene Klingel
+                  wieder<milestone unit="space"/>herstellte: schlug er sich dabei auf die Finger
+               oder stach er sich hinein, so wurde der hervorgerufene Schmerz, wenn auch nicht
+               gleich, so doch nach einigen entsetzlichen Sekunden, von der Freude am industriösen
+               Geist der Menschheit überwunden, der sogar in solchen geringfügigen Fertigkeiten und
+               ihrem Erwerbe steckt, <subst>
+                  <del><restore hand="#red">w</restore></del>
+                  <add place="margin"><del>d</del></add>
+               </subst>essen sich der Gebildete heute zu seinem
+               allgemeinen Nachteil hochmütig überhoben dünkt! Mit Behagen hatte er dann Goetheschen
+               Geist in sich wiederauferstehen fühlen<del>d</del>
+               <metamark function="del" place="margin"/> und es umso mehr genossen, als er sich über
+               des Klassikers praktische Liebhaberei und gelegentliche Freude an besonnener
+               Handfertigkeit dank der Verfahren eines neueren Zeitalters doch auch hinausgehoben
+               fühlte. Lindner war überhaupt frei von Vergötzung des alten Autors, der in einer erst
+               halb aufgeklärten<del>,</del><metamark function="del" place="margin"/> und darum die
+               Aufklärung überschätzenden<del>,</del><metamark function="del" place="margin"/> Welt
+               gelebt hat, und nahm <seg function="transposition" xml:id="ib5">ihn </seg>
+               <seg xml:id="ib6">sich </seg><listTranspose>
+                  <transpose>
+                     <ptr target="#ib6"/>
+                     <ptr target="#ib5"/>
+                  </transpose>
+               </listTranspose><metamark place="margin"/> mehr im liebenswürdig Kleinen zum Vorbild
+               als im Ernsten und Großen, ganz abgesehen von der berüchtigten Sinnlichkeit des
+                  verführ<add place="margin">er</add>ischen Ministers. </p>
+            <p>Seine Verehrung war also sorgfältig abgewogen. Trotzdem machte sich seit einiger Zeit
+               in ihr eine merkwürdige Verdrießlichkeit gelten <del>d</del><metamark function="del"
+                  place="margin"/>, die Lindner <note place="margin">?</note> oftmals zum Nachdenken
+               reizte. Immer schon hatte er geglaubt, eine richtigere Auffassung vom Heldischen zu
+               besitzen als Goethe. Von Scävolas, die ihre Hände ins Feuer stecken, Lukrezien, die
+               sich durchbohren, oder Judithen, die den Bedrängern ihrer Ehre das Haupt abschlagen -
+               „Motiven", die Goethe jederzeit bedeutsam gefunden hätte, obzwar er sie nicht selbst
+               behandelt hat - hielt Lindner nicht viel; ja <del>,</del><metamark function="del"
+                  place="margin"/> er war sogar trotz der Autorität der Klassiker überzeugt, daß
+               diese Männer und Frauen, die für ihre persönlichen Überzeugungen Verbrechen begangen
+               haben, heutigentags nicht sowohl auf den Kothurn als vielmehr in den Gerichtssaal
+               gehörten. Er setzte ihrem Hang zu schweren Körperverletzungen eine „verinnerlichte
+               und soziale“ Auffassung des Mutes entgegen. In Gespräch und Gedanke ging er sogar so
+               weit, eine reiflich überlegte Eintragung ins Klassenbuch darüber zu stellen, oder die
+               verantwortliche Erwägung, wie seine Wirtschafterin wegen voreiligen Eifers zu tadeln
+               sei, weil man dabei nicht nur den eigenen Leidenschaften folgen dürfe, sondern auch
+               die Gründe des anderen berücksichtigen müsse. Und wenn er so etwas aussprach, hatte
+               er den Eindruck, in wohlanstehendem Zivilkleid eines späteren Jahrhunderts auf das
+               bombastische moralische <pb n="8" corresp="#sn151240080" sameAs="#F_8"/>
+               <fw>8</fw> Kostüm eines älteren zurückzublicken. </p>
+            <p>Der Hauch von Lächerlichkeit, der mit solchen Beispielen verbunden war, entging ihm
+               durchaus nicht, aber er nannte ihn das Lachen des Geistespöbels; und er hatte zwei <subst>
+                  <del>starke</del>
+                  <add place="margin">feste</add>
+               </subst> Gründe dafür. <subst>
+                  <del>Denn e </del>
+                  <add place="margin">E</add>
+               </subst>rstens <subst>
+                  <del>läßt sich</del>
+                  <add place="margin">behauptete er</add>
+               </subst> nicht nur <add place="margin">, daß sich</add>
+               <hi rend="spaced">jeder</hi> Anlaß gleich gut zur Stärkung wie zur Schwächung der
+               menschlichen Natur benutzen<subst>
+                  <del>;</del>
+                  <add place="margin">lasse;</add>
+               </subst> sondern <subst>
+                  <del>Lindner</del>
+                  <add place="margin">es</add>
+               </subst> erschienen <add place="margin">ihm</add> Anlässe kleinerer Art <add
+                  place="margin">sogar</add> zur Kräftigung geeigneter als die großen Gelegenheiten, <subst>
+                  <del>weil</del>
+                  <add place="margin">denn</add>
+               </subst> durch die glanzvolle<note place="margin" rend="kur">Alt!</note> Ausübung der
+               Tugend <add place="margin">wird</add> unwillkürlich auch die menschliche Neigung zu
+               Überhebung und Eitelkeit gefördert <del>wird</del><metamark function="del"
+                  place="margin"/>, wogegen die unscheinbare alltägliche Ausübung schlechthin aus
+               ungewürzter und reiner Tugend besteht. Zweitens aber durfte eine planvolle
+               Bewirtschaftung des moralischen Volksguts (diesen Ausdruck liebte Lindner, neben dem
+               soldatischen Wort „Zucht“, wegen des Bäurischen und zugleich Fabriksneuen, das an ihm
+               ist) auch deshalb die „kleinen <note place="margin" rend="kur">Neu!</note>
+               Gelegenheiten“ nicht verschmähen, weil der gottlose, von „Liberalen und Freimaurern"
+               aufgebrachte Glaube, daß die großen menschlichen Leistungen gleichsam aus einem
+               Nichts hervorgehn, mochte man es auch Genie nennen, schon damals im Veralten war. Das
+               geschärftere Licht der öffentlichen Aufmerksamkeit ließ den „Helden", den frühere
+               Zeit zu einer überheblichen Erscheinung gemacht hatte, bereits als einen
+               unermüdlichen Kleinarbeiter erkennen, der sich zum Entdecker durch dauernden
+               Lernfleiß vorbereiten, als Athlet seinen Körper so <note place="margin">?</note>
+               ängstlich behandeln muß wie ein Opernsänger seine Stimme<del>,</del><del><metamark
+                     function="del" place="margin"/></del> und als politischer Volkserneuerer vor
+               unzähligen Versammlungen immer das gleiche zu wiederholen hat. Und davon hatte Goethe
+               - der <subst>
+                  <del>Z</del>
+                  <add place="margin">z</add>
+               </subst>eit seines Lebens doch ein bequemer Bürger-Aristokrat geblieben <subst>
+                  <del>ist</del>
+                  <add place="margin">war</add>
+               </subst> - noch keine Ahnung gehabt, Lindner aber sah es kommen! Darum war es auch
+               verständlich, daß er Goethens besseres Teil gegen dessen vergängliches in Schutz zu
+               nehmen meinte, wenn er das Bedachtsam-Umgängliche, das jener in so erfreulichem Maße
+               besaß, dem Tragischen vorzog; auch ließe sich <subst>
+                  <del>vielleicht</del>
+                  <add place="margin">wohl</add>
+               </subst> vertreten, daß es nicht unüberlegt geschah, wenn er sich aus keinem anderen
+               Grunde, als weil er ein Pedant war, für einen von gefährlichen Leidenschaften
+               bedrohten Menschen hielt. </p>
+            <p>Wahrhaftig ist es denn auch bald danach eine der beliebtesten menschlichen
+               Möglichkeiten geworden, sich einem „Regime“ zu unterwerfen, was mit demselben
+               günstigen Erfolg gegen die Fettleibigkeit angewendet wird wie in der Politik und im
+               geistigen Leben. Dabei werden Geduld, Gehorsam, Regelmäßigkeit, Gleichmut und andere
+               sehr ordentliche <note place="margin">?</note> Eigenschaften zu Hauptbestandteilen
+               des Menschen im Privatzustand, während alles Ungezügelte, Gewaltsame, Süchtige und
+               Gefährliche, dessen er, als ein Wildromantiker, doch auch nicht entbehren mag, seinen
+               vortrefflichen Sitz im Regime hat. Wahrscheinlich ist diese merkwürdige Neigung, sich
+               einem Regime zu unterwerfen<del>,</del><del><metamark function="del" place="margin"
+                  /></del> oder ein anstrengendes, unangenehmes und dürftiges Leben nach den
+               Vorschriften eines Arztes, Sportlehrers oder anderen Tyrannen zu führen, obgleich man
+               es mit ebenso gutem Mißerfolg auch unterlassen könnte, schon ein Ergebnis der
+               Bewegung zum Arbeiter-, Krieger- und Ameisenstaat, dem sich die Welt annähert: aber
+               da lag auch die Grenze, die zu überschreiten Lindner nicht mehr fähig war und an die
+               sein Blick nicht mehr sehend hindrang, weil es ihm sein Goethisches Erbteil verbot.
+                  <pb n="9" corresp="#sn151240090" sameAs="#F_9"/>
+               <fw>9</fw>
+               <subst>
+                  <del>S</del>
+                  <add place="margin">Wohl war s</add>
+               </subst>eine Frömmigkeit <del>wäre</del><metamark function="del" place="margin"/>
+               <seg n="alt1">von keiner Art <del>gewesen</del>, die</seg>
+               <seg n="alt2"><add place="margin" hand="kur"><del>nicht so beschaffen, daß
+                        sie</del><metamark function="del" place="margin"/></add></seg> sich damit
+               nicht <seg function="transposition"><metamark xml:id="ib7"/></seg><listTranspose>
+                  <transpose>
+                     <ptr target="#ib8"/>
+                     <ptr target="#ib7"/>
+                  </transpose>
+               </listTranspose> hätte <seg xml:id="ib8">vertragen</seg>
+               <del>können</del><metamark function="del" place="margin"/>, überließ er doch das
+               Göttliche Gott, und auch die unverdünnte Heiligkeit den Heiligen; aber er konnte den
+               Gedanken nicht fassen, auf seine Persönlichkeit zu verzichten, und es schwebte ihm
+               als <del>i</del><add place="margin">I</add>deal <del>e</del><metamark function="del"
+                  place="margin"/>
+               <add place="margin">der</add> Welt eine Gemeinschaft vollverantwortlicher sittlicher
+               Persönlichkeiten vor, die als zivile Gottesstreitmacht zwar wider die Unbeständigkeit
+               der niederen Natur kämpfe und den Alltag zum Heiligtum mache, dieses aber auch mit
+               den großen Werken der Kunst und Wissenschaft schmücke. Hätte <del>nun</del><metamark
+                  function="del" place="margin"/> jemand seine Tageseinteilung nachgezählt, so wäre
+               ihm darum auch aufgefallen, daß sie in jeder Abwandlung bloß dreiundzwanzig Stunden
+               ergab, es fehlten also noch sechzig Minuten auf einen vollen Tag, und von diesen
+               sechzig Minuten waren vierzig ein für allemal dem Gespräch und liebevollen Eingehn
+               auf die Bestrebungen und die Wesensart anderer Menschen zugedacht, wozu er auch den
+               Besuch von Kunstausstellungen, Konzerten und Vergnügungen rechnete. Er haßte diese
+               Veranstaltungen. Sie verletzten fast jedesmal durch ihren Inhalt sein Gemüt, und nach
+               seinen Begriffen tobte sich in diesen planlosen und überschätzten Erbauungen die
+               berüchtigte Nervenstörung der Gegenwart aus, mit ihren überflüssigen Reizen und ihren
+               echten Leiden, mit ihrer Unersättlichkeit und ihrer Unbeständigkeit, ihrer Neugierde
+               und ihrem unvermeidlichen Sittenverfall. Er lächelte sogar erschüttert in seinen
+                  <del>schütteren</del>
+               <add place="margin" rend="kur">dünnen</add> Bart, wenn er bei solchen Anlässen
+               „Männlein und Weiblein“ mit erhitzten Wangen der Kultur götzendienern sah. Sie wußten
+               nicht, daß die Lebenskraft durch Einengung gesteigert wird, und nicht durch
+               Zersplitterung. Sie litten alle unter der Angst, keine Zeit für <hi rend="spaced"
+                  >alles</hi> zu haben, und wußten nicht, daß Zeit haben nichts anderes heißt, als
+                  <hi rend="spaced">keine</hi> Zeit für alles zu haben. Lindner hatte erkannt, daß
+               die schlechte Nervenverfassung nicht von der Arbeit und ihrer Eile kommen die man in
+               diesem Zeitalter anschuldige, sondern<add place="margin">,</add> im
+                  Gegenteil<del>,</del><metamark function="del" place="margin"/> von der Kultur und
+               Humanität ausgehe, von den Ruhepausen, der Unterbrechung der Arbeit, den
+               freigelassenen Minuten, wo der Mensch sich selbst leben möchte und etwas sucht, das
+               er für schön halten könnte oder für ein Vergnügen oder für wichtig: diese Minuten
+               sind es, aus denen die Miasmen der Ungeduld, des Unglücks und der Sinnlosigkeit
+               aufsteigen. So empfand er, und wäre es nach ihm gegangen, das heißt, nach den
+               Gesichten, die er in solchen Augenblicken hatte, so hätte er alle diese Kunststätten
+               mit eisernem Besen ausgekehrt, und es hätten Feste der Arbeit und Erbauung, kurz
+               angebunden an das tägliche Tun, die Stelle jener angeblichen Geistesereignisse
+               eingenommen; es wäre eigentlich nichts zu tun gewesen, als von einem ganzen Zeitalter
+               wenige Minuten täglich fortzunehmen, die ihr krankes Dasein einer falsch verstandenen
+               Liberalität <note place="margin" rend="kur">vgl. <choice>
+                     <abbr>U</abbr>
+                     <expan>Ulrich</expan>
+                  </choice>: Gefühlsache usw.</note> verdanken. Aber es ernsthaft und öffentlich und
+               anders als in einigen Anspielungen zu vertreten, dazu hatte er nie die
+               Entschiedenheit aufgebracht. </p>
+            <p>Und Lindner blickte plötzlich auf, denn er fuhr während dieser Gedankenträume ja noch
+               immer mit der Straßenbahn, und fühlte sich gereizt und beklommen, wie es von
+               Unentschlossenheit und Verhindertsein kommt, und hatte für einen Augenblick den
+               verworrenen Eindruck, die ganze Zeit über an Agathe gedacht zu haben. Es geschah ihr
+               auch die Ehre, daß ein Unwille, der arglos als Freude an Goethe begonnen hatte, nun
+               mit ihr verschmolz, obwohl kein Grund dafür zu erkennen war. <seg type="word"
+                  part="I">Gewohn</seg><pb n="10" corresp="#sn151240100" sameAs="#F_10"
+                  /><fw>10</fw><seg type="word" part="F">heitsmäßig</seg> ermahnte sich
+                  <del>deshalb</del>
+               <add place="margin">darum</add> Lindner selbst: „Widme einen Teil deiner Einsamkeit
+               dem ruhigen Nachdenken über deinen Nächsten, zumal wenn du nicht mit ihm
+               übereinstimmen solltest; vielleicht wirst du dann, was dich abstößt, besser verstehen
+               und benutzen lernen und wirst seine Schwäche zu schonen und seine Tugend zu ermutigen
+               wissen, die möglicherweise bloß eingeschüchtert ist!“ flüsterte er mit stummen
+               Lippen. Es war einer der Kernsätze, die gegen das fragwürdige Treiben der sogenannten
+               Kultur geprägt hatte und in denen er gewöhnlich die Gelassenheit fand, dieses zu
+               ertragen; aber der Erfolg blieb aus, und Gerechtigkeit war offenbar nicht das, was
+               ihm diesmal fehlte. Er zog die Uhr. Es bestätigte sich, daß er Agathe mehr Zeit
+               geschenkt hatte, als ihm gegeben war. Aber er hätte es nicht tun können, wenn in
+               seinem Tagesplan nicht restliche zwanzig Minuten für unvermeidliche Zeitverluste
+               vorgesehen gewesen wären; und es zeigte sich, daß ihm von diesem Verlustkonto, diesem
+               Notvorrat an Zeit, dessen kostbare Tropfen das vermittelnde Öl in seinem Tagwerk
+               waren, selbst an diesem ungewöhnlichen Tag noch zehn Minuten übrig sein würden, wenn
+               er sein Haus betreten werde. Wuchs dadurch sein Mut? Es fiel ihm ein anderer seiner
+               Lebenssprüche ein, schon zum zweitenmal heute: „Je unerschütterlicher die Geduld in
+               dir wird <del>",</del><add place="margin">,"</add> sagte Lindner zu Lindner
+                  <del>,</del><metamark function="del" place="margin"/> „desto sicherer wirst du den
+               andern ins Herz treffen!“ Und ins Herz zu treffen, das bereitete ihm ein Vergnügen,
+               das auch dem Heldischen seiner Natur entsprach; daß so Getroffene niemals
+               zurückschlagen, spielte dabei keine Rolle.</p>
+         </div>
+         <div n="41">
+            <head type="chapter" n="41"><subst hand="#mm">
+                     <del>41</del>
+                     <add>3</add>
+            </subst> <hi rend="italic">Die Geschwister am nächsten Morgen</hi></head>
+            <p>AUF DIESEN MANN kamen nun Ulrich und seine Schwester abermals zu sprechen, als sie
+               sich am Morgen nach dem plötzlichen Verschwinden Agathes aus der Gesellschaft bei
+               ihrer Kusine <seg>von neuem</seg><metamark function="check" place="margin"/> sahen.
+               Tags zuvor hatte auch Ulrich bald nach ihr die streitbar angeregte Versammlung
+               verlassen, war aber nicht mehr dazugekommen, sie zu fragen, warum sie ihm auf und
+               davon gegangen wäre; denn sie hatte sich eingeschlossen und entweder schon geschlafen
+               oder mit Absicht die leise Frage des Lauschenden, ob sie noch wache, ohne Antwort
+               gelassen. So schloß der Tag, wo sie dem wunderlichen Fremden begegnet war, ebenso
+               launenhaft ab, wie er begonnen hatte. Auch am nächsten Tag war keine Auskunft von ihr
+               zu erlangen. Ihre wirklichen Empfindungen kannte sie selbst nicht. Wenn sie an den
+               bei ihr eingedrungenen Brief ihres Ehemanns dachte, den sie sich ein zweites Mal zu
+               lesen nicht überwinden konnte, obwohl sie ihn von Zeit zu Zeit neben sich liegen sah,
+               so erschien es ihr unglaubwürdig, daß seit seinem Empfang kaum ein Tag vergangen sein
+               solle; so oft hatte sie inzwischen ihren Zustand gewechselt. <subst><del>Es</del>
+               <add place="margin" rend="#kur">Manchmal</add></subst> dünkte sie, daß auf diesen Brief
+               wahrhaftig das Schauerwort: Gespenster der Vergangenheit angewandt werden müßte;
+               trotzdem fürchtete sie sich auch wirklich vor ihm. Und zuweilen erregte er in ihr
+               bloß ein kleines Unbehagen, das auch der unverhoffte Anblick einer stehengebliebenen
+               Uhr erregen könnte; zuweilen aber versetzte es sie in <choice>
+                  <seg n="alt1">starres</seg>
+                  <seg n="alt2"><add place="margin" hand="#kur">unfruchtbares</add></seg>
+               </choice> Nachdenken, daß die Welt, aus der er kam, den Anspruch hatte, die wirkliche
+               für sie zu sein. Was sie innen nicht einmal leise berührte, umgab sie außen <pb
+                  n="11" corresp="#sn151240110" sameAs="#F_11"/>
+               <fw>11</fw> unabsehbar und hielt <add place="margin">dort</add> noch immer
+                  <del>fest</del><metamark function="del" place="margin"/> zusammen. <choice>
+                  <seg n="alt1">Unwillkürlich verglich sie damit</seg>
+                  <seg n="alt2">Wenn sie damit verglich</seg>
+               </choice><metamark place="margin" rend="kur">Wenn ..
+                  (<del>unwillkürlich</del>)</metamark>, was sich zwischen ihr und ihrem Bruder seit
+               dem Eintreffen dieses Schreibens ereignet hatte. Das waren <subst>
+                  <del>in der Hauptsache</del>
+                  <add place="margin">vor allem</add>
+               </subst> Gespräche, und obwohl eines <subst>
+                  <del>davon</del>
+                  <add place="margin">von diesen</add>
+               </subst> sie <add place="margin">sogar</add> dazu gebracht hatte, an Selbstmord zu
+               denken, war sein Inhalt vergessen, wenn auch wahrscheinlich noch auferstehensbereit
+               und nicht verschmerzt <subst>
+                  <del>; auch</del>
+                  <add place="margin">. Es</add>
+               </subst> hatte <subst>
+                  <del>es</del>
+                  <add place="margin">also</add>
+               </subst> eigentlich <add place="margin">auch</add> wenig zu bedeuten, <subst>
+                  <del>ob etwas länger oder kürzer im Vordergrund stand</del>
+                  <add place="margin">wo<subst>
+                        <del>von</del>
+                        <add status="level2">rüber</add>
+                     </subst> ein Gespräch <subst>
+                        <del>scheinbar beherrscht</del>
+                        <add status="level2">geführt</add>
+                     </subst> wurde</add>
+               </subst>, und ihr herzergreifendes jetziges Leben gegen den Brief abwägend, empfing
+               sie den Eindruck einer tiefen, beständigen, unvergleichlichen, aber machtlosen
+               Bewegung. Sie fühlte sich von alledem an diesem Morgen teils matt und ernüchtert,
+               teils zärtlich und unruhig, wie es ein Fiebernder nach dem Sinken der Temperatur ist. </p>
+            <p><choice>
+                  <seg n="alt1">Es geschah darum bloß scheinbar unvermittelt, als sie mit einemmal
+                     sagte</seg>
+                  <seg n="alt2"><add place="margin" hand="kur">In diesem Zustand von lebendiger
+                        Hilflosigkeit sagte sie plötzlich</add></seg>
+               </choice><note><ref target=".../15089.xml#sn150890430" corresp="#Ü6-2.04_1">(2·04 S
+                     1)</ref></note>: „So teilzunehmen, daß man selbst erlebt, wie einem andren
+               zumute ist, muß unbeschreiblich schwer sein!“ <choice>
+                  <seg n="alt1">Ulrich entgegnete: „Es gibt Menschen, die sich einbilden, es zu
+                     können.“ Er war ungelaunt und anzüglich und hatte sie nur halb verstanden. Bei
+                     ihren Worten wich etwas zur Seite und gab einem Ärger Raum, der tags zuvor
+                     zurückgeblieben war, mochte er ihn auch verachten. Damit war diese Aussprache
+                     fürs erste zu Ende.</seg>
+                  <seg n="alt2">Zu ihrer Überraschung entgegnete Ulrich sogleich: „Es gibt Menschen,
+                     die sich einbilden, es zu können.“ Er sagte es ungelaunt und anzüglich. Bei
+                     ihren Worten wich etwas zur Seite und gab einem Ärger Raum, der tags zuvor
+                     zurückgeblieben war. Damit war unerachtet dessen, daß er ihn verächtlich finden
+                     sollte, diese Aussprache fürs erste zu Ende.</seg>
+               </choice><metamark place="margin" rend="kur">Zu ihrer Überraschung entgegnete U.
+                  sogleich ... Er sagte es ungelaunt u anzüglich bei ihren .. zurückgeblieben war.
+                  Er fand diesen Ärger verächtlich. Damit .. Ende. (war unerachtet dessen, daß er
+                  ihn verächtlich finden sollte)</metamark></p>
+            <p>Der Morgen hatte einen Regentag gebracht und die Geschwister in ihrem Hause
+               eingeschlossen. Die Blätter der Bäume glänzten öde vor den Fenstern wie nasses
+               Linoleum; der Fahrdamm hinter den Lücken des Laubs spiegelte wie ein Gummischuh. Die
+               Augen mochten den nassen Anblick kaum anfassen. Agathe <choice>
+                  <seg n="alt1">seufzte auf und erklärte: „Die</seg>
+                  <seg n="alt2">bereute ihre Bemerkung und wußte nicht mehr, warum sie sie getan
+                     hatte. Sie seufzte und begann von neuem. „Die</seg>
+               </choice><metamark place="margin" rend="kur">bereute ihre Bemerkung u wußte nicht
+                  mehr warum sie sie getan hatte. Sie seufzte u begann von neuem. Die ..</metamark>
+               Welt erinnert heute an unsere Kinderzimmer.“ Sie spielte damit auf die kahlen
+               Oberstuben in ihres Vaters Haus an, mit denen sie beide ein verwundertes Wiedersehen
+               gefeiert hatten. <choice>
+                  <seg n="alt1">Das schien weit hergeholt zu sein; aber</seg>
+                  <seg n="alt2">Das mochte weit hergeholt sein; aber ..</seg>
+               </choice><metamark place="margin" rend="kur">Das mochte weit - sein; aber
+                  ..</metamark> sie fügte hinzu: „Es ist die erste Traurigkeit des Menschen inmitten
+               seines Spielzeugs, die immer wiederkehrt!“ <note place="margin">Erklärung.</note>
+               Unwillkürlich war die Erwartung nach dem ausdauernd guten Wetter der letzten Zeit
+               wieder auf einen schönen Tag gerichtet gewesen und erfüllte <choice>
+                  <seg n="alt1">nun</seg>
+                  <seg n="alt2"><add place="margin" hand="kur">darum</add></seg>
+               </choice> den Sinn mit versagter Lust und ungeduldiger Schwermut. Ulrich blickte
+               jetzt auch zum Fenster hinaus. Hinter der grauen<add place="margin">,</add> rinnenden
+               Wasserwand gaukelten unausgeführte Entwürfe von Ausflügen, freies Grün und endlose
+               Welt; und vielleicht geisterte dahinter auch der Wunsch<add place="margin">,</add>
+               einmal allein zu sein und <choice>
+                  <seg n="alt1">sich selbst</seg>
+                  <seg n="alt2"><add place="margin" hand="kur">sich wieder</add></seg>
+               </choice> frei nach allen Seiten zu regen, dessen süßer Schmerz die
+               Passionsgeschichte und auch schon die Wiederauferstehung der Liebe ist. Er wandte
+               sich, irgend etwas davon <add place="margin">noch</add> im Ausdruck des Gesichts und
+               Körpers, zu seiner Schwester um und <add place="margin"><surplus>u</surplus> beinahe
+                  heftig</add> fragte <add place="margin">er</add> sie: „Ich gehöre wohl nicht zu
+               den Menschen, die auf andere teilnehmend eingehen können?“ </p>
+            <p>„Nein, wirklich nicht!“ erwiderte sie und lächelte ihn an.</p>
+            <p>„Aber gerade, was solche Menschen sich einbilden <subst>
+                  <del>",</del>
+                  <add place="margin">, „</add>
+               </subst> fuhr er fort, denn <seg function="transposition"><metamark xml:id="ib11"
+                  /></seg><listTranspose>
+                  <transpose>
+                     <ptr target="#ib12"/>
+                     <ptr target="#ib11"/>
+                  </transpose>
+               </listTranspose> jetzt <seg xml:id="ib12">erst</seg> hatte er verstanden, wie ernst <subst>
+                  <del>gemeint schon ihre erste Bemerkung gewesen war</del>
+                  <add place="margin">ihre Worte gemeint waren</add>
+               </subst>, „daß man mit<del> </del><metamark function="connection" place="margin"
+               />einander leiden könnte, vermögen sie so wenig wie irgendwer. Sie haben <choice>
+                  <seg n="alt1">höchstens</seg>
+                  <seg n="alt2">gerade nur</seg>
+               </choice> die Geschicklichkeit von Krankenschwestern, daß sie erraten, was ein
+               Bedürftiger gerne hört -“ <add place="margin">fuhr er fort</add>
+               <note place="margin">Nun war der Ärger nicht mehr verächtlich</note>
+            </p>
+            <p>„Also müssen sie doch wissen, was ihm wohltut“ <del>,</del>
+               <metamark function="del" place="margin"/> wandte Agathe ein. </p>
+            <p>„Durchaus nicht!“ wiederholte Ulrich hartnäckiger. „Wahrscheinlich trösten sie
+               überhaupt nur dadurch, daß sie reden: <del>W</del><add place="margin">w</add>er viel
+               redet, entlädt das Leid des andern tropfenweise, wie ein Regen die Elektri- <pb
+                  n="12" corresp="#sn151240120" sameAs="#F_12"/>
+               <fw>12</fw> zität einer Wolke <del>, d</del>
+               <add place="margin">. D</add>as ist die bekannte Milderung eines jeden Kummers durch
+               das Mittel der Aussprache!“ </p>
+            <p>Agathe schwieg. </p>
+            <p>„Solche Menschen wie dein neuer Freund“ <del>,</del>
+               <metamark function="del" place="margin"/> meinte Ulrich nun <choice>
+                  <seg n="alt1">herausfordernd</seg>
+                  <seg n="alt2">unbefangen</seg>
+               </choice>
+               <del>,</del>
+               <metamark function="del" place="margin"/> „wirken vielleicht auch, wie es manche
+               Hustenmittel tun: sie beseitigen nicht den Katarrh, aber sie lindern seinen Reiz, und
+               dann heilt er oft von selbst aus!“ </p>
+            <p>Er hätte unter allen anderen Umständen die Zustimmung seiner Schwester erwarten
+               dürfen, aber die seit gestern wunderlich gesonnene Agathe mit ihrer plötzlichen
+               Schwäche für einen Mann, dessen Wert Ulrich bezweifelte, lächelte unnachgiebig und
+               spielte mit ihren Fingern. Ulrich sprang auf und sagte eindringlich: „Aber ich kenne
+               ihn doch, wenn auch nur flüchtig; ich habe ihn einigemal reden hören!“ </p>
+            <p>„Du hast ihn sogar einen ‚faden Esel‘ genannt“ <del>,</del>
+               <metamark function="del" place="margin"/> schaltete Agathe ein. </p>
+            <p>„Und warum nicht!?“ verteidigte es Ulrich. „Menschen wie der wissen noch weniger als
+               irgendwer mit einem andern zu fühlen! Sie wissen nicht einmal, was es bedeutet. Sie
+               fühlen einfach die Schwierigkeit, die ungeheuerliche Zweifelhaftigkeit dieses
+               Anspruches nicht!“ <note place="margin">Gekränkt Ü6-2.04 2·04 S 1 ~ mit einem
+                  sonderbaren Nachdruck) vorwurfsvoll u unerwartet Gekränkt beinahe leidenschaftl.
+                  Nachdruck (Stärkerer Akzent Sch Korr III S 13)</note>
+            </p>
+            <p>Da fragte Agathe: „Weshalb erscheint dir denn der Anspruch zweifelhaft?“ </p>
+            <p>Nun schwieg Ulrich. Er zündete sich sogar eine Zigarette an, um zu bekräftigen, daß
+               er darauf nicht antworten werde, hatten sie doch tags zuvor genug darüber gesprochen!
+               Auch Agathe wußte das. Sie wollte keine neue Erklärung herausfordern. Diese
+               Erklärungen waren so bezaubernd und so vernichtend, wie in den Himmel zu schaun, wenn
+               darin graue, rosa und gelbe Städte aus Wolkenmarmor zu sehen sind. Sie dachte: „Wie
+               schön wäre es, wenn er nichts sagte als: ‚Ich will dich lieben wie mich selbst, und
+               dich kann ich eher so lieben als alle anderen Frauen, weil du meine Schwester bist!‘“
+               Und weil er es nicht sagen wollte, nahm sie eine kleine Schere und schnitt sorgfältig
+               einen Faden ab, der irgendwo hervorragte, so als wäre es augenblicklich auf der
+               ganzen Welt das einzige, was ihre volle Aufmerksamkeit verdiene. Ulrich sah dem mit
+               der gleichen Aufmerksamkeit zu. Sie war in diesem Augenblick allen seinen Sinnen
+               verführerischer denn je gegenwärtig, und etwas von dem, was sie verbarg, erriet er,
+               wenn auch nicht alles. Denn sie hatte indessen Zeit zu dem Beschluß <del>,</del>
+               <add place="margin">:</add> wenn Ulrich vergessen könne, daß sie den fremden Mann
+                  <seg function="transposition"><metamark xml:id="ib9"/>selbst auslache,</seg>
+               <del>wegen seine Anmaßung</del>
+               <add place="margin">der sich anmaßte</add>, hier helfen zu können, <seg xml:id="ib10"
+                  >selbst auslache,</seg> solle er es jetzt auch nicht von ihr erfahren. Und
+               außerdem hatte sie doch auch ein erwartungsvolles Vorgefühl von Lindner. Sie kannte
+               ihn nicht. Aber <del>wie</del>
+               <add place="margin">daß er ihr</add> selbstlos und überzeugt <del>er ihr</del>
+               <metamark function="del" place="margin"/> seine Hilfe anbot, mußte ihr wohl Vertrauen
+               eingeflößt haben, denn eine frohe Tonart des Herzens, harter Posaunenklang von Wille,
+               Zuversicht und Stolz, ihrem eigenen Zustand wohltätig entgegengesetzt, schienen sie
+               hinter aller Komik des Falls erfrischend anzublasen. „Mögen Schwierigkeiten noch so
+               groß sein, sie bedeuten nichts, wenn man ernstlich will!“ dachte sie und wurde dabei
+               unversehens von Reue erfaßt, so<handShift new="Trennzeichen Bleistift"/>daß sie nun
+               das Schweigen ungefähr so brach, wie eine Blume gebrochen wird, damit sich zwei Köpfe
+               darüber beugen können, und ihrer ersten Frage die zweite hinzufügte: „Erinnerst du
+               dich denn noch, daß du immer gesagt hast, liebe den Nächsten, ist von einer Pflicht
+               so verschieden wie ein aus der Seligkeit kommender Wolkenbruch von einem Tropfen
+               Zufriedenheit?“ <pb n="13" corresp="#sn151240130" sameAs="#F_13"/>
+               <fw>13</fw>
+            </p>
+            <p>Sie <del>er</del>staunte <metamark function="del" place="margin"/> über die
+               Heftigkeit, mit der Ulrich ihr antwortete: „Die Ironie meines Zustands ist mir nicht
+               unbekannt. Seit gestern, und wahrscheinlich immer, habe ich nichts getan, als ein
+               Heer aufzustellen von Gründen dafür, daß diese Liebe zu diesem Nächsten nicht ein
+               Glück sei, sondern eine ungeheuer <note place="margin" rend="kur">(? Und ich <choice>
+                     <seg n="alt1">werde</seg>
+                     <seg n="alt2"><add>fürchte, daß ..</add></seg>
+                  </choice>
+                  <del>darin</del>
+                  <add>so</add> fortfahren ?)</note> großartige, halb unlösbare Aufgabe! Nichts
+               könnte also begreiflicher sein, als daß du Schutz davor bei einem Menschen suchtest,
+               der von alledem keine Ahnung hat, und ich an deiner Stelle täte es auch!“</p>
+            <p>„Aber es ist doch gar nicht wahr, daß ich es tue!“ versetzte Agathe kurz.</p>
+            <p>Ulrich konnte nicht umhin, ihr einen so dankbaren wie mißtrauischen Blick zuzuwerfen:
+               „Es stünde kaum dafür, daß man davon redete“ <del>,</del>
+               <metamark function="del" place="margin"/> versicherte er. „Ich habe es eigentlich
+               auch nicht tun wollen.“ Er zauderte einen Augenblick und fuhr fort: „Aber sieh, wenn
+               man schon einen anderen lieben muß wie sich selbst, und liebt ihn noch so sehr,
+               bleibt es doch eigentlich Betrug und Selbstbetrug, weil man einfach nicht mitfühlen
+               kann, wie ihn der Kopf schmerzt oder der Finger. Es ist etwas völlig Unerträgliches,
+               daß man an einem Menschen, den man liebt, nicht wirklich teilnehmen kann, und es ist
+               etwas völlig Einfaches. So ist die Welt eingerichtet. Wir tragen unser Tierfell mit
+               den Haaren nach innen und können es nicht ausstreifen. Und diesen Schreck in der
+               Zärtlichkeit, diesen Albtraum der steckenbleibenden Annäherung, den erleben die
+               regelrecht guten, die ‚kurz und guten‘ Menschen nie. Was sie ihr Mitgefühl nennen,
+               ist sogar ein Ersatz dafür, der zu verhindern hat, daß sie etwas vermissen!“ </p>
+            <p>Agathe vergaß, daß sie soeben etwas gesagt hatte, das einer Lüge so ähnlich war wie
+               keiner Lüge. Sie sah, daß in Ulrichs Worten die Enttäuschung von der Vision eines An
+                  <del>-</del>einander-Teilhabens durchleuchtet war, vor der die gewöhnlichen
+               Beweise der Liebe, Güte und Teilnahme ihre Bedeutung verloren; und sie verstand, daß
+               er darum von der Welt öfter als von sich sprach, denn man mußte sich wohl mitsamt der
+               Wirklichkeit ausheben wie eine Tür aus der Angel, wenn das mehr als eitel Träumerei
+               sein sollte. In diesem Augenblick war sie weit weg von dem Mann mit dem schütteren
+               Bart und der schüchternen Strenge, der ihr wohltun wollte. Sie vermochte es aber
+               nicht zu sagen. Sie sah Ulrich bloß an, dann sah sie weg, ohne zu sprechen. Dann tat
+               sie irgend etwas, dann sahen sie einander wieder an. Das Schweigen machte nach
+               kürzester Zeit den Eindruck, daß es schon Stunden währe. </p>
+            <p>Der Traum, zwei Menschen zu sein und einer -: in Wahrheit war die Wirkung dieser
+               Erdichtung in manchen Augenblicken der eines über die Grenzen der Nacht getretenen
+               Traumes nicht unähnlich, und auch jetzt schwebte sie zwischen Glaube und Leugnung in
+               einem solchen Gefühlszustand, daran die Vernunft nichts mehr zu bestellen hatte. Es
+               war erst die unbeeinflußbare Beschaffenheit der Körper, wovon das Gefühl in die
+               Wirklichkeit zurückgewiesen wurde. Diese Körper breiteten vor dem suchenden Blick ihr
+               Sein, da sie einander doch liebten, zu Überraschungen und Entzückungen aus, die sich
+               erneuten wie ein in den Strömen des Begehrens schwebendes Pfauenrad; aber sobald der
+               Blick nicht bloß an den hundert Augen des Schauspiels hing, das die Liebe der Liebe
+               gibt, sondern zu dem Wesen einzudringen versuchte, das dahinter dachte und fühlte,
+               verwandelten sich diese Körper in grausame Kerker. Es fand sich wieder einer vor dem
+               andern, wie schon so oft zuvor, und wußte nichts zu sagen, weil zu allem, <pb n="14"
+                  corresp="#sn151240140" sameAs="#F_14"/>
+               <fw>14</fw>
+               <note place="margin">Dieweil (-en – Da indem mittlerweilen allermaßen –
+                  alsdann</note> was die Sehnsucht noch zu sagen oder zu wiederholen gehabt hätte,
+               eine <del>über</del><add place="margin">allzu</add>weit hinübergebeugte Bewegung
+               gehörte, für die es keinen Stand und Boden gab. </p>
+            <p>Und nicht lange, so wurden darüber unwillkürlich auch die körperlichen Bewegungen
+               langsamer und erstarrten. Vor den Fenstern erfüllte noch immer der Regen die Luft mit
+               seinem zuckenden Vorhang aus Tropfen und den einschläfernden Geräuschen, durch deren
+               Eintönigkeit die himmelhohe Öde herabfloß. Es schien Agathe Jahrhunderte her zu sein,
+               daß ihr Körper einsam sei; und die Zeit rann, als rinne sie mit dem Wasser vom
+               Himmel. Im Zimmer war jetzt ein Licht wie ein ausgehöhlter Silberwürfel. Blaue,
+               süßliche Schärpen von Rauch achtlos verbrennender Zigaretten umschlangen sie und
+               Ulrich. Sie wußte nicht mehr, ob sie bis ins Innerste empfindlich und zärtlich sei
+               oder ungeduldig und schlecht auf ihren Bruder zu sprechen, dessen Ausdauer sie
+               bewunderte. Sie suchte sein Auge und fand es erstarrt wie zwei Monde in dieser
+               unsicheren Atmosphäre schweben. Und in demselben Augenblick geschah ihr nun, was
+               nicht aus ihrem Willen zu kommen schien, sondern von außen, daß das quellende Wasser
+               vor den Fenstern plötzlich fleischig wurde wie eine aufgeschnittene Frucht und seine
+               schwellende Weichheit zwischen sie und Ulrich drängte. Vielleicht schämte sie sich
+               oder haßte sich deswegen sogar ein wenig, aber eine völlig sinnliche Ausgelassenheit
+               - und gar nicht nur, was man Entfesseln der Sinne nennt, sondern auch, ja weit eher,
+               ein freiwilliges und freies Ablassen der Sinne von der Welt! – begann sich ihrer zu
+               bemächtigen; und sie konnte dem gerade noch zuvorkommen, und es vor Ulrich sogar
+               verbergen, indem sie mit der schnellsten aller Ausreden, daß sie etwas zu besorgen
+               vergessen hätte, aufsprang und das Zimmer verließ.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
