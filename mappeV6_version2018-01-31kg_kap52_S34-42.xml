@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Musil-Nachlass: Mappe V/6, Atemzüge eines Sommertags (Kap. 52)</title>
+            <author>Robert Musil</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>musilonline</p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>ÖNB</institution>
+                  <idno type="sn">15093</idno>
+                  <msName>R 47-52</msName>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <bibl><author>Robert Musil</author>
+                        <edition>Gesamtausgabe Band 4</edition>
+                        <title>Der Mann ohne Eigenschaften. Zweites Buch. Fortsetzung aus dem
+                           Nachlass 1937-1942</title>
+                        <seg>Dritte Genfer Ersetzungsreihe</seg></bibl>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <handNote scribe="RMusil" medium="Tinte_schwarz" rendition="Entwurf_3"/>
+                  </handDesc>
+               </physDesc>
+               <history>
+                  <p>Die Mappe enthält sechs Kapitelentwürfe. Sie repräsentieren die Ergebnisse von
+                     Musils Arbeit an der dritten und letzten Genfer Ersetzungsreihe zu den Kapiteln
+                     47-52 der Wiener Druckfahnen von 1937/38 zur Zwischenfortsetzung des Mann ohne
+                     Eigenschaften. Im Entwurf des knapp vor seinem Tod am 15. April 1942 verfassten
+                     Briefs an Henry Church-Hall schreibt Musil, er hoffe, "in wenigen Wochen
+                     darangehen zu können, die erste Hälfte des Schlussbands ins Reine zu
+                     schreiben". Daraus lässt sich ableiten, dass er die Neuentwurfsreihe in Mappe
+                     V/6 für bereits sehr weit entwickelt hielt, aber noch nicht ganz für
+                     abgeschlossen betrachtete. Musil begann mit der Erarbeitung der sechs Entwürfe
+                     im Frühjahr 1940. Wie aus dem Genfer Übersiedlungsregister vom 1. April 1941
+                     hervorgeht, lagen zu diesem Zeitpunkt die Niederschriften der Kapitel 47-50
+                     vor. An Kapitel 51 "Es ist nicht einfach zu lieben" arbeitete Musil im Sommer
+                     1941; an seinem letzten Romankapitel Atemzüge eines Sommertags im Herbst 1941
+                     und im Winter 1941/1942. Die Reinschriftentwürfe korrespondieren eng mit
+                     Vorstufen (T 51 und T 52) und mit den Korrektur-Notizen in der "Arbeitsmappe".
+                     Die letzte Notiz-Serie Korr XIII offenbart, dass die Entwurfsreihe bereits
+                     einige Wochen vor Musils Tod (vgl. den Datierungshinweis "13.II." auf K XIII,
+                     S. 5) bis zur Seite 9, der letzten Seite in der Mappe, gediehen war, und dass
+                     Musil sich in seiner allerletzten Schreibphase nur mehr mit Abänderungs- und
+                     Ergänzungsmöglichkeiten auseinander setzte.</p>
+                  <p><origDate notBefore="194003" notAfter="19420415">Datierungsabschnitt 9-3 - 9-5:
+                     März 1940 - April 1941</origDate></p>
+               </history>
+               <msPart>
+                  <msIdentifier xml:id="sn150930340" sameAs="V/6/34">
+                     <msName>R 52 Atemzüge 1</msName>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <title type="chapter" n="52">Atemzüge eines Sommertags</title>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc>
+                        <supportDesc>
+                           <support rend="recte_von_1">Doppelblatt cremefarben kariert</support>
+                           <extent>210x297</extent>
+                        </supportDesc>
+                     </objectDesc>
+                  </physDesc>
+               </msPart>
+               
+               <msPart>
+                  <msIdentifier xml:id="sn150930350" sameAs="V/6/35">
+                     <msName>R 52 Atemzüge 2</msName>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <title type="chapter" n="52">Atemzüge eines Sommertags</title>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc>
+                        <supportDesc>
+                           <support rend="verso_von_1">Doppelblatt cremefarben kariert</support>
+                           <extent>210x297</extent>
+                        </supportDesc>
+                     </objectDesc>
+                  </physDesc>
+               </msPart>
+               
+               <msPart>
+                  <msIdentifier xml:id="sn150930360" sameAs="V/6/36">
+                     <msName>R 52 Atemzüge 3</msName>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <title type="chapter" n="52">Atemzüge eines Sommertags</title>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc>
+                        <supportDesc>
+                           <support rend="recte_von_2">Doppelblatt cremefarben kariert</support>
+                           <extent>210x297</extent>
+                        </supportDesc>
+                     </objectDesc>
+                  </physDesc>
+               </msPart>
+               
+               <msPart>
+                  <msIdentifier xml:id="sn150930370" sameAs="V/6/37">
+                     <msName>R 52 Atemzüge 4</msName>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <title type="chapter" n="52">Atemzüge eines Sommertags</title>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc>
+                        <supportDesc>
+                           <support rend="verso_von_2">Doppelblatt cremefarben kariert</support>
+                           <extent>210x297</extent>
+                        </supportDesc>
+                     </objectDesc>
+                  </physDesc>
+               </msPart>
+               
+               <msPart>
+                  <msIdentifier xml:id="sn150930380" sameAs="V/6/38">
+                     <msName>R 52 Atemzüge 5</msName>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <title type="chapter" n="52">Atemzüge eines Sommertags</title>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc>
+                        <supportDesc>
+                           <support rend="recte">Blatt cremefarben kariert</support>
+                           <extent>210x297</extent>
+                        </supportDesc>
+                     </objectDesc>
+                  </physDesc>
+               </msPart>
+               
+               <msPart>
+                  <msIdentifier xml:id="sn150930390" sameAs="V/6/39">
+                     <msName>R 52 Atemzüge 6</msName>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <title type="chapter" n="52">Atemzüge eines Sommertags</title>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc>
+                        <supportDesc>
+                           <support rend="recte">Blatt cremefarben kariert</support>
+                           <extent>210x297</extent>
+                        </supportDesc>
+                     </objectDesc>
+                  </physDesc>
+               </msPart>
+               <msPart>
+                  <msIdentifier xml:id="sn150930400" sameAs="V/6/40">
+                     <msName>R 52 Atemzüge 7</msName>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <title type="chapter" n="52">Atemzüge eines Sommertags</title>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc>
+                        <supportDesc>
+                           <support rend="recte_von_1">Doppelblatt cremefarben kariert</support>
+                           <extent>210x297</extent>
+                        </supportDesc>
+                     </objectDesc>
+                  </physDesc>
+               </msPart>
+               
+               <msPart>
+                  <msIdentifier xml:id="sn150930410" sameAs="V/6/41">
+                     <msName>R 52 Atemzüge 8</msName>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <title type="chapter" n="52">Atemzüge eines Sommertags</title>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc>
+                        <supportDesc>
+                           <support rend="verso_von_1">Doppelblatt cremefarben kariert</support>
+                           <extent>210x297</extent>
+                        </supportDesc>
+                     </objectDesc>
+                  </physDesc>
+               </msPart>
+               
+               <msPart>
+                  <msIdentifier xml:id="sn150930420" sameAs="V/6/42">
+                     <msName>R 52 Atemzüge 9</msName>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <title type="chapter" n="52">Atemzüge eines Sommertags</title>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc>
+                        <supportDesc>
+                           <support rend="recte_von_2">Doppelblatt cremefarben kariert</support>
+                           <extent>210x297</extent>
+                        </supportDesc>
+                     </objectDesc>
+                  </physDesc>
+               </msPart>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     
+     <profileDesc>
+        <handNotes>
+           <handNote xml:id="pencil">Einfügung mit Bleistift ausgeführt</handNote>
+           <handNote xml:id="red">Korrektur mit Hilfe von Rotstift ausgeführt</handNote>
+           <handNote xml:id="blue">Korrektur mit Hilfe von Blaustift ausgeführt</handNote>
+           <handNote xml:id="green">Korrektur mit Hilfe von Grünstift ausgeführt</handNote>
+           <handNote xml:id="brown">Korrektur mit Hilfe von Braunstift ausgeführt</handNote>
+        </handNotes>
+     </profileDesc>
+     
+  </teiHeader>
+  <text>
+      <body>
+
+         <pb n="34" corresp="#sn150930340" xml:id="R_52_Atemzüge_1"/>
+         <div n="52">
+            <head n="52"><hi rend="underline">52.</hi> Atemzüge eines Sommertags.</head>
+            <p>Die Sonne war unterdessen höhergestiegen; die Stühle hatten sie wie gestrandete Boote
+               in dem flachen Schatten beim Haus zurückgelassen, und lagen auf einer Wiese im Garten
+               unter der vollen Tiefe des Sommertags. Sie taten es schon eine ganze Weile, und
+               obgleich die Umstände gewechselt hatten, kam es ihnen kaum als Veränderung zu
+               Bewußtsein. Ja eigentlich tat dies auch nicht der Stillstand des Gesprächs; es war
+               hängengeblieben, ohne einen Riß verspüren zu lassen. </p>
+            <p>Ein geräuschloser Strom glanzlosen Blütenschnees schwebte, von einer abgeblühten
+               Baumgruppe kommend, durch den Sonnenschein; und der Atem, der ihn trug, war so sanft,
+               daß sich kein Blatt regte. Kein Schatten fiel davon auf das Grün des Rasens, aber
+               dieses schien sich von innen zu verdunkeln wie ein Auge. Die zärtlich und
+               verschwenderisch vom jungen Sommer belaubten Bäume und Sträucher, die beiseite
+               standen oder den Hintergrund bildeten, machten den Eindruck von fassungslosen
+               Zuschauern, die, in ihrer fröhlichen Tracht überrascht und gebannt, an diesem
+               Begräbniszug und Naturfest teilnahmen. Frühling und Herbst, Sprache und Schweigen der
+               Natur, auch Lebens= und Todeszauber mischten sich in dem Bild; die Herzen schienen
+               stillzustehen, aus der Brust genommen zu sein, sich dem schweigenden Zug durch die
+               Luft anzuschließen. „Da ward mir das Herz aus der Brust genommen", hat ein Mystiker
+               gesagt: Agathe erinnerte sich dessen. </p>
+            <p>Auch wußte sie, daß sie selbst diesen Ausspruch Ulrich aus einem seiner Bücher
+               vorgelesen hatte<subst>
+                  <del>, h</del>
+                  <add place="margin">. <milestone unit="p"/>H</add>
+               </subst>ier in dem Garten, nicht weit von dem Platze, wo sie sich jetzt befanden, war
+               das geschehen. Die Erinnerung wurde vollständiger. Auch andere Aussprüche, die sie
+               ihm ins Gedächtnis gerufen hatte, fielen ihr ein: „Bist du es, oder bist du es nicht?
+                  <del>-</del> Ich weiß nicht, wo ich bin; noch will ich davon wissen<add>!</add>"
+                  <del>-</del> „Ich habe alle meine Vermögen überstiegen bis an die dunkle Kraft!
+                  <del>-</del> Ich bin verliebt, und weiß nicht in wen! <del>-</del> Ich habe das
+               Herz von Liebe voll, und von Liebe leer zugleich <del>-</del> !“ Also klang in ihr
+               die Klage der Mystiker wieder, <note place="margin" rend="#pencil"><choice>
+                     <abbr>s</abbr>
+                     <expan>siehe</expan>
+                  </choice>
+                  <ref target="#sn150930170">48 9!</ref></note> in deren Herz
+               Gott so tief eingedrungen ist<del>, daß ihn</del>
+               <add>wie</add> ein Dorn, den keine Fingerspitzen fassen können. Viele solche selige
+               Klagen hatte sie <pb n="35" corresp="#sn150930350" xml:id="R_52_Atemzüge_2"/>
+               <fw>(<hi rend="underline">52</hi>. Atemzüge ..) <seg rend="right">2.</seg></fw>Ulrich
+               damals vorgelesen. Vielleicht war die Wiedergabe <add>jetzt</add> nicht genau, das
+               Gedächtnis verfährt etwas befehlshaberisch mit dem, was es zu hören wünscht; aber sie
+               begriff, <del>es</del> was gemeint war, und faßte einen <del>Beschluß</del>
+               Entschluß. Wie in diesem Augenblick des Blütenzugs hatte der Garten also schon einmal
+               geheimnisvoll verlassen und belebt ausgesehen; und zwar <add hand="#blue">gerade</add>
+               in der Stunde, nachdem ihr <del>von den Büchern ihres Bruders</del> die mystischen
+               Bekenntnisse in die Hand gefallen waren<subst>
+                  <del hand="#red">.</del>
+                  <add>, die Ulrich unter seinen Büchern besaß.</add>
+               </subst> Die Zeit stand still, ein Jahrtausend wog so leicht wie ein Öffnen und
+               Schließen des Auges, sie war ans Tausendjährige Reich gelangt, Gott gar gab sich
+               vielleicht zu fühlen. Und während sie, obwohl es doch die Zeit nicht mehr geben
+               sollte, eins <hi rend="underline">nach</hi> dem andern das empfand; und während
+                  <subst>
+                  <del hand="#blue">Ulrich</del>
+                  <add>ihr Bruder</add>
+               </subst>, damit sie bei diesem Traum nicht Angst leide, <hi rend="underline"
+                  >neben</hi> ihr war, obwohl es auch keinen Raum mehr zu geben schien: schien die
+               Welt, unerachtet dieser Widersprüche, in allen Stücken erfüllt von Verklärung zu
+               sein. </p>
+            <p>Was sie seither erlebt hatte, konnte ihr nicht anders als gesprächig gemäßigt im
+               Vergleich mit dem erscheinen, was vorangegangen war; aber welche Erweiterung und
+               Bekräftigung sollte es diesem doch auch geben, wenngleich es die fast körperwarme
+               Unmittelbarkeit der ersten Eingebung darüber verloren hatte! Unter diesen Umständen
+               beschloß Agathe, diesmal mit Vorbedacht der Entzückung zu begegnen, die sie vormals
+               in diesem Garten beinahe traumhaft befallen hatte. Sie wußte nicht, warum sie damit
+               den Namen des Tausendjährigen Reiches verband. Es war ein gefühlhelles Wort und war
+               beinahe faßbar wie ein Ding, blieb aber dem Verstand unklar. Deshalb konnte sie mit
+               dieser Vorstellung umgehen, wie wenn das tausendjährige Reich in jedem Augenblick
+               anbrechen könnte. Es wird auch das Reich der Liebe genannt, das wußte Agathe
+               ebenfalls; doch erst als letztes dachte sie daran, daß beide diese Namen schon seit
+               den Zeiten der Bibel überliefert werden und das Reich Gottes auf Erden bedeuten,
+               dessen nahe bevorstehender Anbruch in völlig wirkliche<subst>
+                  <del>m</del>
+                  <add>r</add>
+               </subst>
+               <subst>
+                  <del hand="#red">Sinn</del>
+                  <add>Bedeutung</add>
+               </subst> gemeint ist. Übrigens benützte <del>zuweilen</del> auch Ulrich, <add
+                  hand="#red">ohne deshalb an die Schrift zu glauben, zuweilen</add> diese Worte
+               ebenso unbefangen wie seine Schwester; und so wunderte es diese schon gar nicht, daß
+               sie <subst>
+                  <del hand="#blue">ohne weiters</del>
+                  <add>scheinbar ohne weiters</add>
+               </subst> auch wußte, wie man sich im Tausendjährigen Reich zu verhalten habe. „Man
+               muß sich darin ganz still betragen“ sagte ihr eine Eingebung. „Man darf keinerlei
+               Verlangen Platz lassen; <del>und</del> nicht einmal dem, zu fragen. Auch der
+               Verständigkeit muß man sich entäußern, <pb n="36" corresp="#sn150930360"
+                  xml:id="R_52_Atemzüge_3"/>
+               <fw>(<hi rend="underline">52</hi>. Atemzüge ..) <seg rend="right">3.</seg></fw>mit
+               der man Geschäfte besorgt. Man muß seinen Geist aller Werkzeuge berauben, und <subst>
+                  <del>ver</del>
+                  <add>daran</add>
+               </subst> hindern, wie ein Werkzeug zu dienen. Das Wissen ist von ihm abzutun und das
+               Wollen; der Wirklichkeit, und des Begehrens, sich ihr zuzuwenden, muß man sich
+               entschlagen. Ansichhalten muß man, bis Kopf, Herz und Glieder lauter Schweigen sind.
+               Erreicht man so aber die höchste Selbstlosigkeit, dann berühren sich schließlich
+               Außen und Innen, als wäre ein Teil ausgesprungen, der die Welt geteilt hat ..!“ </p>
+            <p><subst>
+                  <del hand="#red">Es</del>
+                  <add>
+                     <milestone unit="p"/>Vielleicht war das nicht gerade nüchtern vorbedacht.
+                     Es</add>
+               </subst> kam ihr <add>aber</add> vor, daß es, fest gewollt, auch erreichbar sein
+               müßte; und sie nahm sich zusammen, als woll<add>t</add>e sie sich totstellen. Aber
+               bald erwies es sich als eine ebenso unmögliche Aufgabe, Gedanken, Sinnes= und
+               Willensmeldungen ganz stillzustellen, wie es in der Kindheit die gewesen war,
+               zwischen Beichte und Kommunion keine Sünde zu begehen; und nach einiger Bemühung gab
+               sie den Versuch ganz auf. Sie ertappte sich dabei, daß sie nur noch äußerlich an
+               ihrem Vorsatz festhielt und daß ihre Aufmerksamkeit längst von ihm abgeglitten war.
+               Diese befand sich in dem Augenblick bei einer weit abgesprungenen Frage, einem
+               kleinen Ungeheuer von Abspenstigkeit: sie fragte sich nämlich gerade auf das
+               törichteste, und sehr erpicht auf diese Torheit: „Bin ich wirklich jemals heftig,
+               boshaft, haßerfüllt und unglücklich gewesen?“ Ein Mann ohne Namen wurde ihr
+               erinnerlich; dem der Name fehlte, weil sie ihn an sich trug und mit sich fortgetragen
+               hatte. Wenn sie an ihn dachte, empfand sie ihren Namen wie eine Narbe; aber sie
+               fühlte keinen Haß mehr gegen Hagauer, und nun wiederholte sie ihre Frage mit dem
+               etwas schwermütigen Starrsinn, mit dem man einer entflossenen Welle nachblickt. Wohin
+               war das Verlangen gekommen, ihn fast tödlich zu verletzen? Sie hatte es beinahe in
+               Zerstreutheit verloren und meinte anscheinend, es müßte sich noch in ihrer Nähe
+               finden lassen. Überdies mochte 
+               <seg xml:id="ib33" rendition="before">geradezu </seg><metamark rend="underline" function="transposition" target="#ib33" place="above">2.</metamark>
+               <seg xml:id="ib34" rendition="before">Lindner </seg><metamark rend="underline" function="transposition" target="#ib34" place="above">1.</metamark>
+               <listTranspose>
+                  <transpose>
+                     <ptr target="#ib34"/>
+                     <ptr target="#ib33"/>
+                  </transpose>
+               </listTranspose>
+               <metamark><note place="margin"><hi rend="underline">1</hi>-<hi rend="underline"
+                        >2</hi></note></metamark> ein Ersatz für dieses Verlangen nach
+               Feindseligkeit sein; denn auch das fragte sie sich und dachte flüchtig an ihn. <subst>
+                  <del>Endlich aber</del>
+                  <add place="margin">Vielleicht</add>
+               </subst> kam es ihr <subst>
+                  <del>sehr</del>
+                  <add>da</add>
+               </subst> erstaunlich vor, was alles ihr schon widerfahren sei; liegt doch jungen
+               Menschen die Verwunderung, wieviel sie schon haben fühlen müssen, schlechthin näher
+               als älteren, denen die Wandelbarkeit der Leidenschaften und Lebenszustände gewohnt
+               geworden ist wie der Wetterwechsel<subst>
+                  <del>;</del>
+                  <add>.</add>
+               </subst> Was hätte aber Agathe so nahegehen können, wie daß sich in demselben
+               Augenblick von dem Umschwung <pb n="37" corresp="#sn150930370"
+                  xml:id="R_52_Atemzüge_4"/>
+               <fw>(<hi rend="underline">52</hi>. Atemzüge ..) <seg rend="right">4.</seg></fw>des
+               Lebens, der Flucht seiner Leidenschaften und Zustände, von dem wunderlichen Strom des
+               Gefühls - worin sich sonst die Jugend, wenig davon wissend, naturhaft=großartig <subst>
+                  <del>erkennt</del>
+                  <add>vorkommt -</add>
+               </subst> rätselhaft wieder der steinklare Himmel der reglosen Verträumtheit abhob,
+               aus der sie soeben erwacht war? </p>
+            <p>Also waren <subst>
+                  <del>ihre</del>
+               <add place="margin"><del status="level2">Agathens</del>
+                     <add>ihre</add></add>
+               </subst> Gedanken <subst>
+                  <del>wohl</del>
+                  <add>zwar</add>
+               </subst> noch immer im Bannkreis des Blüten= und Totenzugs; aber sie bewegten sich
+               nicht mehr mit ihm und auf seine stumm=feierliche Art, sondern <subst>
+                  <del status="level2"><del>Agathe</del>
+                     <add>sie</add></del>
+                  <add place="margin">Agathe</add>
+               </subst> „dachte hin und her", wie man es im Gegensatz zu dem Geisteszustand nennen
+               könnte, worin das Leben „tausend Jahre“ ohne einen Flügelschlag währt. Dieser
+               Unterschied <add>zweier Geisteszustände</add> war <subst>
+                  <del status="level2"><subst>
+                        <del>ihr</del>
+                        <add>Agathe</add>
+                     </subst></del>
+                  <add place="margin">Agathe</add>
+               </subst> sehr deutlich; und ein wenig verblüfft erkannte sie, wie oft gerade er, oder
+               etwas ihm nahe Verwandtes, in ihren Gesprächen mit Ulrich schon berührt worden war.
+               Unwillkürlich wandte sie sich an diesen, und ohne das umgebende Schauspiel aus den
+               Augen zu lassen, fragte sie, tief Atem holend: „Erscheint nicht auch dir in einem
+               solchen Augenblick <subst>
+                  <del>alles, was anders ist</del>
+                  <add place="margin">, und mit ihm verglichen, alles andere</add>
+               </subst> hinfällig?“ </p>
+            <p>Diese wenigen Worte zerteilten das wolkige Gewicht des Schweigens und der Erinnerung.
+               Denn auch Ulrich hatte dem ohne Ziel seines Wegs ziehenden Blütenschaum zugesehn; und
+               weil seine Gedanken und Erinnerungen auf den gleichen Ton gestimmt waren wie die
+               seiner Schwester, bedurfte es keiner anderen Einleitung, um ihn das sagen zu lassen,
+               was auch deren verschwiegenen Gedanken Antwort gab. Er streckte langsam die Glieder
+               und erwiderte: „Ich habe dir schon lange - schon in dem Zustand, wo wir von dem, was
+               Stilleben heißt, sprachen <subst>
+                  <del>-</del>
+                  <add>,</add>
+               </subst> und eigentlich alle Tage <add>-</add> etwas sagen wollen, selbst wenn es
+               nicht in die Mitte der Scheibe treffen sollte: Es gibt, den Gegensatz stark
+               aufgetragen, zwei Arten leidenschaftlich zu leben, und zwei Sorten des
+               leidenschaftlichen Menschen. Entweder man heult vor Wut oder Unglück oder
+               Begeisterung jedesmal los wie ein Kind und entledigt sich seines Gefühls in einem
+               kurzen, nichtigen Wirbel. In diesem Fall, und er ist der gewöhnliche, ist das Gefühl
+               am Ende der alltägliche Vermittler des alltäglichen Lebens; und je heftiger und
+               leichter erregbar es ist, umso mehr erinnert dieses an die Unruhe in einem
+               Raubtierkäfig zur Fütterungsstunde, wenn das Fleisch an den Gittern vorbeigetragen
+               wird, und bald nachher an <add place="margin">die</add> satte Ermüdung. Ist es nicht
+               so? Die andere Art leidenschaftlich zu sein und zu handeln ist aber die: <pb n="38"
+                  corresp="#sn150930380" xml:id="R_52_Atemzüge_5"/>
+               <fw>(<hi rend="underline">52.</hi> Atemzüge ..) <seg rend="right">5.</seg></fw>Man
+               hält an sich und gibt der Handlung nicht im mindesten statt, zu der jedes Gefühl
+               hinzieht und treibt. Und in diesem Fall wird das Leben wie ein etwas unheimlicher
+               Traum, worin das Gefühl bis an die Wipfel der Bäume, an die Turmspitzen, an den
+               Scheitel des Himmels steigt ..! Allzu wahrscheinlich haben wir daran gedacht, als wir
+               noch von Bildern, und nichts als ihnen zu sprechen vorgaben.“ </p>
+            <p>Agathe stützte sich neugierig auf. „Hast du nicht einmal schon gesagt,“ fragte sie
+               „daß es <del>nicht nur</del> zwei von Grund auf verschiedene Möglichkeiten <del>gibt,
+                  leidenschaftlich</del> zu leben <add>gibt</add>, <subst>
+                  <del>sondern auch</del>
+                  <add>und</add>
+               </subst>, daß sie geradezu verschiedenen Tonarten des Gefühls gleichen? Die eine
+               sollte die des ‚weltlichen’ Gefühls sein, das nie zur Ruhe und Erfüllung kommt; die
+               andere, ich weiß nicht, ob du ihr einen Namen gegeben hast -: aber es hätte wohl die
+               eines ‚mystischen’ Gefühls sein müssen, das dauernd mitklingt, aber niemals zur
+               ‚vollen Wirklichkeit’ gelangt?“ Obgleich sie zögernd sprach, hatte sie sich
+               überhastet und endete verlegen. </p>
+            <p>Ulrich erkannte <subst>
+                  <del>aber</del>
+                  <add>dennoch</add>
+               </subst> recht gut, was er gesagt zu haben schien; und schluckte daran, als hätte er
+               etwas zu Heißes im Mund gehabt; und versuchte zu lächeln. Er sagte: „Sollte ich das
+               gemeint haben, so muß ich mich jetzt wohl umso anspruchsloser fassen! Ich werde also
+               die beiden Arten des leidenschaftlichen Seins einfach nach einem bekannten Beispiel
+               die appetithafte und ebendann auch, als deren Gegenteil, die nicht=appetithafte
+               nennen, mag es sich unschön anhören, oder nicht. Denn in jedem Menschen ist ein
+               Hunger und verhält sich wie ein reißendes Tier; und ist kein Hunger, sondern etwas,
+               das frei von Gier und Sattheit, zärtlich wie eine Traube in der Herbstsonne reift.
+               Ja, <subst>
+                  <del>auch</del>
+                  <add hand="#pencil">sogar</add>
+               </subst> in jedem <add status="level2" place="margin"><subst>
+                     <del>unsrer</del>
+                     <add>seiner</add>
+                  </subst>
+               </add> Gefühle ist das eine wie das andere.“ </p>
+            <p>„Also geradezu eine vegetab<subst>
+                  <del>ilische</del>
+                  <add>ile</add>
+               </subst>, wenn nicht gar vegetarische <subst>
+                  <del>Anlage</del>
+                  <add>,</add>
+               </subst> neben einer animalischen Anlage?“ Ein Anflug von Vergnügen und Neckerei war
+               in dieser Frage Agathens. </p>
+            <p>„Beinahe!“ erwiderte Ulrich. „Vielleicht wäre das Tierische und das Pflanzenhafte,
+               als Grundgegensatz der Gelüste verstanden, sogar der tiefste Fund für einen
+               Philosophen! Aber sollte ich denn einer sein wollen! Wessen ich mich erdreiste, ist <subst>
+                  <del>auch ganz einfach: An jedem Gefühl lassen sich zwei Teile unterscheiden</del>
+                  <add place="margin">schlechthin nur das,</add>
+               </subst> was ich gesagt habe, und namentlich was ich zuletzt <subst>
+                  <del>angedeutet</del>
+                  <add>gesagt</add>
+               </subst>
+                  habe, daß die beiden 
+               <pb n="39" corresp="#sn150930390" xml:id="R_52_Atemzüge_6"/>
+               <fw>(<hi rend="underline">52.</hi> Atemzüge ..) <seg rend="right">6.</seg></fw>Arten
+               des leidenschaftlichen Seins ein Vorbild, <subst>
+                  <del>oder</del>
+                  <add>und vielleicht gar</add>
+               </subst> ihren Ursprung, <add place="margin" hand="#red">schon</add> an jedem Gefühl
+               haben. An jedem Gefühl lassen sich diese zwei <subst>
+                  <del hand="#blue">Seiten seines Aufbaus und seines Verhaltens unterscheiden. Was ich die
+                     appetitive nenne,</del>
+                  <add place="margin">Seiten unterscheiden“ fuhr er fort. Aber merkwürdigerweise
+                     sprach er dann nur von dem, was er unter der appetitiven verstand. Sie</add>
+               </subst> drängt zum Handeln, zur Bewegung, zum Genuß; <del>da</del>durch <add
+                  place="margin" hand="#brown">ihre Wirkung</add> verwandelt sich das Gefühl in ein
+               Werk, oder <add place="margin" hand="#red">auch</add> in eine Idee und Überzeugung,
+               oder in eine Enttäuschung. Das alles sind Formen seiner Entspannung, können aber auch
+               solche der Umspannung und Neukräftigung sein. <subst>
+                  <del hand="#red">Also</del>
+                  <add status="level2" place="margin">Denn <subst>
+                        <del>dadurch</del>
+                        <add>auf diese</add>
+                     </subst> Art</add>
+               </subst>
+               <subst>
+                  <del>wandelt</del>
+                  <add>verändert</add>
+               </subst> sich das Gefühl, nutzt sich ab, verläuft sich in seinem Erfolg und findet
+               darin ein Ende; oder es verkapselt sich <subst>
+                  <del>in ihm</del>
+                  <add>darin</add>
+               </subst> und verwandelt seine lebendige Kraft nun in seine aufgespeicherte, die ihm
+                  <subst>
+                     <del status="level2" hand="#brown"><del>diese</del>
+                     <add>jene</add></del>
+                  <add place="margin">die lebendige</add>
+               </subst> später, und gelegentlich <add place="margin" hand="#blue"><del>, und</del>
+                  oft mit Zinseszins,</add> wieder zurückgiebt. „Und <subst>
+                     <del status="level2" hand="#green">liegt es nicht <del>schon</del>
+                     <add>gerade</add> daran</del>
+                  <add status="level2" place="margin">wird <add>etwa</add> nicht dadurch schon
+                        <del>zur Genüge</del>
+                     <add>das eine</add> verständlich</add>
+               </subst>, daß die rüstige Tätigkeit unseres weltlichen Fühlens und seine
+               Hinfälligkeit, über die du so angenehm geseufzt hast, keinen <subst>
+                  <del>tiefen</del>
+                  <add>großen</add>
+               </subst> Unterschied für uns ausmachen, mag er auch ein <subst>
+                  <del>groß</del>
+                  <add>tief</add>
+               </subst>er sein?“ schloß Ulrich einstweilen seine Antwort. </p>
+            <p>„Nur zu sehr kannst du recht haben!“ stimmte Agathe zu. „Mein Gott, dieses ganze Werk
+               des Gefühls, sein weltlicher Reichtum, dieses Wollen und Freuen, Tun und
+               Untreuwerden, wegen nichts, als weil es treibt<subst>
+                  <del>,</del>
+                  <add>!</add>
+               </subst> einbezogen alles, was man erfährt und vergißt: <subst>
+                  <del>e</del>
+                  <add>E</add>
+               </subst>s ist ja schön wie ein Baum voll Äpfel in jeder Farbe, aber es ist auch
+               sinnlos eintönig wie alles, was jedes Jahr auf die gleiche Art sich rundet und
+               abfällt!“ </p>
+            <p>Ulrich nickte zu dieser <add place="margin" hand="#red">einen Hauch</add> von
+               Ungestüm und Verzicht <subst>
+                  <del hand="#blue">bewegten</del>
+                  <add place="margin"><del>angehauchten</del> ausatmenden</add>
+               </subst> Antwort <add place="margin">seiner Schwester.</add> „Dem appetit<subst>
+                  <del>iv</del>
+                  <add>artig</add>
+               </subst>en Teil der Gefühle verdankt die Welt alle Werke und alle Schönheit, allen
+               Fortschritt, aber auch alle Unruhe, und zuletzt all ihren sinnlosen Kreislauf!"
+                  be<subst>
+                  <del hand="#brown">stät</del>
+                  <add place="margin">kräft</add>
+               </subst>igte er. „Weißt du übrigens, <subst>
+                  <del hand="#red">daß man unter dem, was ich den appetitiven Teil der Gefühle nenne,</del>
+                  <add place="margin"><seg xml:id="ib37" rendition="before">fügte er
+                        hinzu</seg> daß man unter diesem ‚appetitartig’</add>
+               </subst> einfach <seg xml:id="ib35" rendition="before">versteht,</seg>
+               <del>was triebhaft</del>
+               <del>an ih</del>
+               <add><del>ist</del></add> den Anteil <seg xml:id="ib36"><metamark function="transposition"/></seg><listTranspose>
+                  <transpose>
+                     <ptr target="#ib35"/>
+                     <ptr target="#ib36"/>
+                  </transpose>
+               </listTranspose> den die uns eingeborenen Triebe an <subst>
+                  <del>ihnen</del>
+                  <add status="level2"><del>einem</del> jede<del>n</del><add>m</add> Gefühl</add>
+               </subst> haben? Also <add>"</add><subst>
+                  <del hand="#blue">, habe ich <add>doch nicht</add></del>
+                  <add place="margin"><seg xml:id="ib38"><metamark function="transposition"/></seg><listTranspose>
+                        <transpose>
+                           <ptr target="#ib37"/>
+                           <ptr target="#ib38"/>
+                        </transpose>
+                     </listTranspose> „haben wir damit</add>
+               </subst> gesagt, daß es die Triebe sind, wem die Welt <del status="level3" hand="#brown">
+                  <del status="level2">die Schönheit und den Fortschritt, und die wirre Unruhe
+                     verdankt? Ich möchte auch nicht, daß wir jetzt über dem zweiten das erste <add
+                        place="margin">zu sehr</add> vergäßen.“ Gemeinhin sucht man ja das zweite;
+                     aber ich möchte <subst>
+                        <del>wohl</del>
+                        <add place="margin">natürlich</add>
+                     </subst> auch, daß wir darüber das erste nicht außeracht l<subst>
+                        <del>ieß</del>
+                        <add place="margin">ass</add>
+                     </subst>en!"</del>
+                  <add>Schönheit und Fortschritt verdankt.“ <lb/>"Und
+                     ihre wirre Unruhe“ wiederholte Agathe.</add>
+               </del>
+            </p>
+            <p><milestone unit="p"/>"Gewöhnlich sagt man gerade das; darum erscheint es mir
+               nützlich, daß wir <del>auch</del> das andere nicht außeracht lassen!<del>"</del> Denn
+               es ist ja <seg type="word" part="I">zu</seg><note>
+                  <ref target="#sn150930400">52 7</ref></note>
+               <pb n="40" corresp="#sn150930400" xml:id="R_52_Atemzüge_7"/>
+               <fw>(<hi rend="underline">52.</hi> Atemzüge ..) <seg rend="right">7.</seg></fw><seg
+                  type="word" part="F">mindest</seg> unerwartet, daß der Mensch gerade seinen
+               Fortschritt dem verdanken soll, was eigentlich der Tierstufe angehört!“ - Er lächelte
+               dazu. Auch er hatte sich jetzt aufgestützt und kehrte sich ganz seiner Schwester zu,
+               als wollte er sie aufklären; sprach aber zurückhaltend weiter wie einer, der sich
+               zuerst durch die Worte, die er sucht, selbst belehrt fühlen will. „Zweifellos haben
+               die tätig zu greifenden Gefühle des Menschen“ sagte er „und mit Recht hast du da von
+               einer animalischen Anlage gesprochen, zum Kern die gleichen paar Instinkte, die schon
+               das Tier hat. Bei den Hauptgefühlen ist es ganz deutlich: An Hunger, Zorn, Freude,
+               Eigenwille oder Liebe verdeckt der seelische Schleier doch kaum das nackteste Wollen
+               -!“ </p>
+            <p>Es hatte den Anschein, daß er auf die gleiche Art fortfahren wolle. <del>O</del><add
+                  place="margin">Aber o</add>bwohl das Gespräch - hervorgegangen aus einem
+               Naturtraum, dem Anblick des Blütenzugs, der noch immer eigentümlich ereignislos
+               mitten durch das Gemüt zu schweben schien - bei keinem Wort die Schicksalsfrage der
+               Geschwister verkennen ließ; vielmehr vom ersten bis zum letzten unter dem Einfluß
+               jenes Sinnbilds stand, beherrscht war von der geheimsinnigen Vorstellung eines
+               „Geschehnis, ohne daß etwas geschieht", und in einer Stimmung sanfter Bedrängnis
+               stattfand: obwohl alles so war, hatte das Gespräch <seg xml:id="ib39" rendition="before">zuletzt</seg><metamark function="transposition" place="above">2.</metamark>
+               <del>also</del>
+               <seg xml:id="ib40" rendition="before">doch</seg><metamark function="transposition" place="above">1.</metamark><listTranspose>
+                  <transpose>
+                     <ptr target="#ib40"/>
+                     <ptr target="#ib39"/>
+                  </transpose>
+               </listTranspose><metamark><note place="margin"><hi rend="underline">1.</hi>-<hi
+                        rend="underline">2.</hi></note></metamark> zu dem Gegenteil solcher
+               Leitvorstellung und ihrer Gefühlsstimmung geführt; als nämlich Ulrich <add>nicht
+                  umhin konnte</add> die aufbauende Tätigkeit starker Triebe neben deren störender hervor<subst>
+                  <del>hob</del>
+                  <add>zuheben.</add>
+               </subst> Eine so deutliche Ehrenrettung der Triebe, und mitverstanden des
+               triebhaften, und des tätigen Menschen überhaupt - denn auch das bedeutete es - hätte
+               nun freilich einem „westlichen<del>"</del>, <del>"</del>abendländischen<del>"</del>,
+               <del>"</del>faustischen Lebensgefühl“ <seg xml:id="ib41"><metamark function="transposition"/></seg>
+               <listTranspose>
+                  <transpose>
+                     <ptr target="#ib41"/>
+                     <ptr target="#ib42"/>
+                  </transpose>
+               </listTranspose>, in der Sprache der Bücher so genannt<del>,</del>
+               <seg xml:id="ib42" rendition="before">angehören können</seg> zum Unterschied von einem jeden, das nach
+               derselben sich selbst befruchtenden Sprache „orientalisch“ oder „asiatisch“ sein
+               soll. Er erinnerte sich dieser vornehmtuerischen Modeworte. <subst>
+                  <del>Aber</del>
+                  <add>Doch</add>
+               </subst> es lag nicht in der Absicht der Geschwister, noch hätte es ihren
+               Gewohnheiten entsprochen, einem Erlebnis, von dem sie tief bewegt waren, durch solche
+               angeflogene, schlecht verwurzelte Begriffe eine trügliche Bedeutung zu geben;
+               vielmehr war alles, was sie miteinander sprachen, als wahr und wirklich gemeint,
+               mochte es auch wolkenwandlerischen Ursprungs sein. <milestone unit="p"/>Darum hatte
+               Ulrich seine Lust daran gehabt, dem zarten Nebel des Gefühls eine Erklärung nach Art
+               der Naturwissenschaften <add place="margin" rend="vertical">- mochte der Anschein
+                  auch dem „Faustischen" Vorschub leisten - in Wahrheit</add> zu unterschieben; und
+                  das<del>,</del>
+               <subst>
+                  <del hand="#red">umso eher, als</del>
+                  <add status="level2" place="margin"><subst>
+                     <del status="level2">, hätte es auch noch so „faustisch“ erscheinen
+                              <del>könn</del>
+                           <add>mög</add>en, doch nur deshalb, weil</del>
+                        <add place="margin" rend="vertical">bloß deshalb, weil</add>
+                     </subst>
+                  </add>
+               </subst> der <del>eine</del>
+               <subst>
+                  <del>enthaltsame</del>
+                  <add>naturgetreue</add>
+               </subst> Geist <pb n="41" corresp="#sn150930410" xml:id="R_52_Atemzüge_8"/>
+               <fw>(<hi rend="underline">52.</hi> Atemzüge ..) <seg rend="right">8.</seg></fw>alles
+               auszuschließen versprach, was unmäßige Einbildung ist. <metamark function="paragraph-remove"/>
+               Zumindest hatte er den Ansatz zu einer solchen
+               Erklärung angedeutet. Es war freilich <del>auch</del> desto seltsamer, daß er ihn nur
+               für das angedeutet hatte, was er das Appetithafte des Gefühls nannte; dagegen ganz
+               außeracht gelassen, wie er einen Gedanken ähnlicher Art auch auf das
+               Nichtappetitartige anwenden könnte, obwohl er anfangs auf dieses gewiß nicht weniger
+               Gewicht gelegt hatte. Es geschah nicht ohne Grund so. Sei es, daß ihm die
+               psychologische und biologische Zergliederung an dieser Seite des Fühlens schwieriger
+               vorkam, sei es, daß er sie vollends <add place="margin">nur</add> für ein
+               verdrießliches Hilfsmittel hielt; beides mochte so sein; was ihn aber vornehmlich
+               beeinflußte, war etwas anderes, und er hatte es überdies seit dem Augenblick, wo
+               Agathes Stoßseufzer den schmerzlichen und beglückenden Gegensatz zwischen den
+               vergangenen unruhigen Lebensleidenschaften und der scheinbar unvergänglichen verraten
+               hatte, die in der zeitlosen Stille unter dem Blütenstrom zu Hause war, schon
+               einigemal vorhersehen lassen. Denn es sind - zu wiederholen, was er schon
+               verschiedentlich wiederholt hatte - nicht nur in jedem einzelnen Gefühl zwei Anlagen
+               unterscheidbar, durch die und nach deren Art es sich bis zur Leidenschaft
+               ausgestalten kann; sondern es gibt auch zwei Arten Menschen, oder in jedem Menschen
+               Zeiten seines Schicksals, die darin verschieden sind, daß die eine oder andere Anlage
+               überwiegt. <milestone unit="p"/> Er sah einen großen Unterschied darin. Menschen des
+               einen Schlags <add place="margin">, es ist schon erwähnt worden,</add> greifen
+               lebhaft nach allem und nehmen alles in Angriff; sie gehen wie ein Sturzbach über
+               Hindernisse hinweg oder schäumen darum in eine neue Bahn; ihre Leidenschaften sind
+               stark und wechselnd, und das Ergebnis ist ein <subst>
+                  <del>stark</del>
+                  <add>heftig</add>
+               </subst> gegliederter Lebenslauf, der nichts als ein Vorbeigerauschtsein hinterläßt.
+               Dieser Art Mensch hatte der Begriff des Appetitartigen gegolten, als Ulrich <subst>
+                  <del>ihn</del>
+                  <add>dar</add>
+               </subst>aus <subst>
+                  <del>ihm</del>
+                  <add>den</add>
+               </subst> einen Haupt<subst>
+                  <del>unterschied</del>
+                  <add>begriff</add>
+               </subst> des leidenschaftlichen Lebens hatte machen wollen; denn die andere Art ist
+               im Gegensatz zu dieser nichts weniger, als ihm entspräche: Sie ist schüchtern,
+               versonnen, undeutlich; schwer entschlossen, voll von Träumen und Sehnsucht und
+               verinnerlicht in ihrer Leidenschaft. Zuweilen - in Gedanken, von denen jetzt nicht
+               die Rede war - gebrauchte Ulrich für sie auch die Bezeichnung „kontemplativ“, ein
+               Wort, das gewöhnlich anders gemeint wird, und etwa bloß in der lauwarmen Bedeutung
+               von „besinnlich“; für ihn aber mehr als diesen gewöhnlichen Sinn hatte <add
+                  place="margin" hand="#red">, ja geradezu dem vorhin erwähnten
+                  Orientalisch=Unfaustischen gleichsam</add>. Vielleicht prägte sich <subst>
+                  <del hand="#red">darin</del>
+                  <add place="margin">in diesem Kontamplativen</add>
+               </subst>, und zumal in Gemeinschaft mit dem Appetithaften <add place="margin"
+                  hand="#blue">als seinem Gegenteil,</add> ein Hauptunterschied des Lebens <add
+                  place="margin">aus:</add> Das zog <subst>
+                  <del>Ulrich</del>
+                  <add><del>ihn</del> Ulrich</add>
+               </subst> lebhafter an als ein Lehrbegriff. Aber daß man <subst>
+                  <del hand="#blue">das</del>
+                  <add place="margin">solche hochzusammengesetzte und anspruchsvolle Lebensbegriffe
+                     alle</add>
+               </subst> auf eine zweifache <del>Schöpfung</del>
+               <add>Schichtung</add>, die schon jedes Gefühl hat, zurückführen könnte, <add
+                  place="margin" hand="#red">diese elementare Möglichkeit<del>,</del> der
+                  Erklärung,</add> war <del>ihm</del>
+               <add><del>Ulrich</del></add> ihm <pb n="42" corresp="#sn150930420"
+                  xml:id="R_52_Atemzüge_9"/>
+               <fw>(<hi rend="underline">52.</hi> Atemzüge ..) <seg rend="right">9.</seg></fw>doch
+                  <add>auch</add> eine Genugtuung. </p>
+            <p><del>Er erinnerte sich wieder daran. Besonders</del>
+               <add place="margin"><milestone unit="p"/>Natürlich</add> war ihm <del>nun auch</del>
+               klar, daß die beiden Arten des Menschseins, <subst>
+                  <del>von denen</del>
+                  <add>die</add>
+               </subst> dabei <subst>
+                  <del hand="#red">die Rede sein müßte,</del>
+                  <add place="margin">auf dem Spiel standen,</add>
+               </subst> nichts anderes bedeute<subst>
+                  <del hand="#green">ten</del>
+                  <add place="margin">n konnten</add>
+               </subst> als <del>als</del>
+               <subst>
+                  <del hand="#blue">den „</del>
+                  <add place="margin">einen</add>
+               </subst> Mann <add>„</add>ohne Eigenschaften“, im Gegensatz zu dem mit allen
+               Eigenschaften, die ein<del>en</del> Mensch<del>en</del> zu zeigen vermag. Man mochte
+               den einen auch einen Nihilisten nennen, der von Gottes Träumen träumt; <del
+                  status="level2" hand="#blue">wogegen der andere <subst>
+                     <del>an dessen Welt glaubt und aufs tätigste in ihr ist.</del>
+                     <add place="margin">weltklar und welttätig sich umtut,</add>
+                  </subst> mag er nebstbei an Gott glauben, oder nicht.</del><metamark
+                  place="margin" function="del"/> im Gegensatz zum Aktivisten, der in seine<subst>
+                  <del hand="#red">r schärfsten Ausprägung</del>
+                  <add status="level2" place="margin" hand="#red"><subst>
+                        <del>n</del>
+                        <add>r</add>
+                     </subst> ungeduldigen Handlung<subst>
+                        <del>en</del>
+                        <add>sweise</add>
+                     </subst>
+                  </add>
+               </subst> aber auch eine Art Gottesträumer ist, und nichts weniger als ein Realist,
+               der <del>sich</del> weltklar und we<subst>
+                  <del>rk</del>
+                  <add>lt</add>
+               </subst>tätig sich um<del>täte.</del> tut. „Weshalb sind wir denn keine Realisten?“
+               fragte sich Ulrich. Sie waren es beide nicht, weder er noch sie, daran ließen ihre
+               Gedanken und Handlungen längst nicht mehr zweifeln; aber Nihilisten und Aktivisten
+               waren sie, und bald das eine bald das andere, je nachdem wie es kam.</p>
+         </div>
+
+      </body>
+  </text>
+</TEI>
